@@ -1,0 +1,1005 @@
+﻿Order ID,Restaurant Name,Order Time,Delivery Time,Delivery Duration (min),Pizza Size,Pizza Type,Traffic Level,Payment Method,Is Peak Hour,Is Weekend,Order Month,Payment Category
+ORD001,Domino's,05-01-2024 18:30,05-01-2024 18:45,15,Medium,Veg,Medium,Card,TRUE,FALSE,January,Online
+ORD002,Papa John's,14-02-2024 20:00,14-02-2024 20:25,25,Large,Non-Veg,High,Wallet,TRUE,FALSE,February,Online
+ORD003,Little Caesars,21-03-2024 12:15,21-03-2024 12:35,20,Small,Vegan,Low,UPI,FALSE,FALSE,March,Online
+ORD004,Pizza Hut,10-04-2024 19:45,10-04-2024 20:10,25,XL,Cheese Burst,Medium,Cash,TRUE,FALSE,April,Offline
+ORD005,Marco's Pizza,05-05-2024 13:00,05-05-2024 13:20,20,Medium,Non-Veg,High,Card,FALSE,TRUE,May,Online
+ORD006,Domino's,06-01-2024 19:00,06-01-2024 19:20,20,Medium,Non-Veg,High,Card,TRUE,TRUE,January,Online
+ORD007,Papa John's,07-01-2024 20:15,07-01-2024 20:40,25,Large,Veg,Medium,UPI,TRUE,TRUE,January,Online
+ORD008,Little Caesars,08-01-2024 18:30,08-01-2024 18:50,20,Small,Vegan,Low,Cash,TRUE,FALSE,January,Offline
+ORD009,Pizza Hut,09-01-2024 19:45,09-01-2024 20:10,25,XL,Cheese Burst,High,Wallet,TRUE,FALSE,January,Online
+ORD010,Marco's Pizza,10-01-2024 13:00,10-01-2024 13:20,20,Medium,Non-Veg,Medium,Card,FALSE,FALSE,January,Online
+ORD011,Domino's,11-01-2024 17:30,11-01-2024 17:50,20,Large,Veg,Low,UPI,FALSE,FALSE,January,Online
+ORD012,Papa John's,12-01-2024 19:00,12-01-2024 19:25,25,Medium,Non-Veg,Medium,Cash,TRUE,FALSE,January,Offline
+ORD013,Little Caesars,13-01-2024 18:15,13-01-2024 18:35,20,Small,Vegan,High,Wallet,TRUE,TRUE,January,Online
+ORD014,Pizza Hut,14-01-2024 20:30,14-01-2024 20:55,25,XL,Cheese Burst,Low,Card,TRUE,TRUE,January,Online
+ORD015,Marco's Pizza,15-01-2024 14:00,15-01-2024 14:20,20,Medium,Non-Veg,Medium,UPI,FALSE,FALSE,January,Online
+ORD016,Domino's,16-01-2024 19:45,16-01-2024 20:10,25,Large,Veg,High,Cash,TRUE,FALSE,January,Offline
+ORD017,Papa John's,17-01-2024 18:30,17-01-2024 18:55,25,Small,Vegan,Low,Wallet,TRUE,FALSE,January,Online
+ORD018,Little Caesars,18-01-2024 20:00,18-01-2024 20:20,20,Medium,Non-Veg,Medium,Card,TRUE,FALSE,January,Online
+ORD019,Pizza Hut,19-01-2024 19:15,19-01-2024 19:40,25,XL,Cheese Burst,High,UPI,TRUE,FALSE,January,Online
+ORD020,Marco's Pizza,20-01-2024 13:30,20-01-2024 13:50,20,Medium,Non-Veg,Low,Cash,FALSE,TRUE,January,Offline
+ORD021,Domino's,21-01-2024 18:45,21-01-2024 19:10,25,Large,Veg,Medium,Wallet,TRUE,TRUE,January,Online
+ORD022,Papa John's,22-01-2024 20:00,22-01-2024 20:25,25,Small,Vegan,High,Card,TRUE,FALSE,January,Online
+ORD023,Little Caesars,23-01-2024 19:30,23-01-2024 19:50,20,Medium,Non-Veg,Low,UPI,TRUE,FALSE,January,Online
+ORD024,Pizza Hut,24-01-2024 18:15,24-01-2024 18:40,25,XL,Cheese Burst,Medium,Cash,TRUE,FALSE,January,Offline
+ORD025,Marco's Pizza,25-01-2024 14:30,25-01-2024 14:50,20,Medium,Non-Veg,High,Wallet,FALSE,FALSE,January,Online
+ORD026,Domino's,26-01-2024 20:00,26-01-2024 20:25,25,Large,Veg,Low,Card,TRUE,FALSE,January,Online
+ORD027,Papa John's,27-01-2024 19:15,27-01-2024 19:40,25,Small,Vegan,Medium,UPI,TRUE,TRUE,January,Online
+ORD028,Little Caesars,28-01-2024 18:30,28-01-2024 18:50,20,Medium,Non-Veg,High,Cash,TRUE,TRUE,January,Offline
+ORD029,Pizza Hut,29-01-2024 20:00,29-01-2024 20:25,25,XL,Cheese Burst,Low,Wallet,TRUE,FALSE,January,Online
+ORD030,Marco's Pizza,30-01-2024 13:15,30-01-2024 13:35,20,Medium,Non-Veg,Medium,Card,FALSE,FALSE,January,Online
+ORD031,Domino's,01-02-2024 19:45,01-02-2024 20:10,25,Large,Veg,High,UPI,TRUE,FALSE,February,Online
+ORD032,Papa John's,02-02-2024 18:00,02-02-2024 18:25,25,Small,Vegan,Low,Cash,TRUE,FALSE,February,Offline
+ORD033,Little Caesars,03-02-2024 20:30,03-02-2024 20:55,25,Medium,Non-Veg,Medium,Wallet,TRUE,TRUE,February,Online
+ORD034,Pizza Hut,04-02-2024 14:15,04-02-2024 14:35,20,XL,Cheese Burst,High,Card,FALSE,TRUE,February,Online
+ORD035,Marco's Pizza,05-02-2024 19:00,05-02-2024 19:25,25,Medium,Non-Veg,Low,UPI,TRUE,FALSE,February,Online
+ORD036,Domino's,06-02-2024 18:45,06-02-2024 19:10,25,Large,Veg,Medium,Card,TRUE,FALSE,February,Online
+ORD037,Papa John's,07-02-2024 20:00,07-02-2024 20:25,25,Medium,Non-Veg,High,UPI,TRUE,FALSE,February,Online
+ORD038,Little Caesars,08-02-2024 19:30,08-02-2024 19:50,20,Small,Vegan,Low,Cash,TRUE,FALSE,February,Offline
+ORD039,Pizza Hut,09-02-2024 18:15,09-02-2024 18:40,25,XL,Cheese Burst,Medium,Wallet,TRUE,FALSE,February,Online
+ORD040,Marco's Pizza,10-02-2024 14:30,10-02-2024 14:50,20,Medium,Non-Veg,High,Card,FALSE,TRUE,February,Online
+ORD041,Domino's,11-02-2024 19:00,11-02-2024 19:20,20,Large,Veg,Low,UPI,TRUE,TRUE,February,Online
+ORD042,Papa John's,12-02-2024 20:15,12-02-2024 20:40,25,Small,Vegan,Medium,Cash,TRUE,FALSE,February,Offline
+ORD043,Little Caesars,13-02-2024 18:30,13-02-2024 18:50,20,Medium,Non-Veg,High,Wallet,TRUE,FALSE,February,Online
+ORD044,Pizza Hut,14-02-2024 19:45,14-02-2024 20:10,25,XL,Cheese Burst,Low,Card,TRUE,FALSE,February,Online
+ORD045,Marco's Pizza,15-02-2024 13:00,15-02-2024 13:20,20,Medium,Non-Veg,Medium,UPI,FALSE,FALSE,February,Online
+ORD046,Domino's,16-02-2024 18:30,16-02-2024 18:50,20,Large,Veg,High,Cash,TRUE,FALSE,February,Offline
+ORD047,Papa John's,17-02-2024 20:00,17-02-2024 20:25,25,Medium,Non-Veg,Low,Wallet,TRUE,TRUE,February,Online
+ORD048,Little Caesars,18-02-2024 19:15,18-02-2024 19:35,20,Small,Vegan,Medium,Card,TRUE,TRUE,February,Online
+ORD049,Pizza Hut,19-02-2024 20:30,19-02-2024 20:55,25,XL,Cheese Burst,High,UPI,TRUE,FALSE,February,Online
+ORD050,Marco's Pizza,20-02-2024 14:45,20-02-2024 15:05,20,Medium,Non-Veg,Low,Cash,FALSE,FALSE,February,Offline
+ORD051,Domino's,21-02-2024 19:00,21-02-2024 19:20,20,Large,Veg,Medium,Wallet,TRUE,FALSE,February,Online
+ORD052,Papa John's,22-02-2024 20:15,22-02-2024 20:40,25,Small,Vegan,High,Card,TRUE,FALSE,February,Online
+ORD053,Little Caesars,23-02-2024 18:30,23-02-2024 18:50,20,Medium,Non-Veg,Low,UPI,TRUE,FALSE,February,Online
+ORD054,Pizza Hut,24-02-2024 19:45,24-02-2024 20:10,25,XL,Cheese Burst,Medium,Cash,TRUE,TRUE,February,Offline
+ORD055,Marco's Pizza,25-02-2024 13:00,25-02-2024 13:20,20,Medium,Non-Veg,High,Wallet,FALSE,TRUE,February,Online
+ORD056,Domino's,26-02-2024 18:30,26-02-2024 18:50,20,Large,Veg,Low,Card,TRUE,FALSE,February,Online
+ORD057,Papa John's,27-02-2024 20:00,27-02-2024 20:25,25,Medium,Non-Veg,High,UPI,TRUE,FALSE,February,Online
+ORD058,Little Caesars,28-02-2024 19:15,28-02-2024 19:35,20,Small,Vegan,Low,Cash,TRUE,FALSE,February,Offline
+ORD059,Pizza Hut,29-02-2024 20:30,29-02-2024 20:55,25,XL,Cheese Burst,Medium,Wallet,TRUE,FALSE,February,Online
+ORD060,Marco's Pizza,01-03-2024 14:45,01-03-2024 15:05,20,Medium,Non-Veg,High,Card,FALSE,FALSE,March,Online
+ORD061,Domino's,02-03-2024 19:00,02-03-2024 19:20,20,Large,Veg,Low,UPI,TRUE,TRUE,March,Online
+ORD062,Papa John's,03-03-2024 20:15,03-03-2024 20:40,25,Small,Vegan,Medium,Cash,TRUE,TRUE,March,Offline
+ORD063,Little Caesars,04-03-2024 18:30,04-03-2024 18:50,20,Medium,Non-Veg,High,Wallet,TRUE,FALSE,March,Online
+ORD064,Pizza Hut,05-03-2024 19:45,05-03-2024 20:10,25,XL,Cheese Burst,Low,Card,TRUE,FALSE,March,Online
+ORD065,Marco's Pizza,06-03-2024 13:00,06-03-2024 13:20,20,Medium,Non-Veg,Low,Card,FALSE,FALSE,March,Online
+ORD066,Domino's,07-03-2024 18:30,07-03-2024 18:50,20,Large,Veg,High,Card,TRUE,FALSE,March,Online
+ORD067,Papa John's,08-03-2024 20:00,08-03-2024 20:25,25,Medium,Non-Veg,Medium,UPI,TRUE,FALSE,March,Online
+ORD068,Little Caesars,09-03-2024 19:15,09-03-2024 19:35,20,Small,Vegan,Low,Cash,TRUE,TRUE,March,Offline
+ORD069,Pizza Hut,10-03-2024 19:45,10-03-2024 20:10,25,XL,Cheese Burst,High,Wallet,TRUE,TRUE,March,Online
+ORD070,Marco's Pizza,11-03-2024 13:00,11-03-2024 13:20,20,Medium,Non-Veg,Low,Card,FALSE,FALSE,March,Online
+ORD071,Domino's,12-03-2024 18:30,12-03-2024 18:50,20,Large,Veg,Medium,UPI,TRUE,FALSE,March,Online
+ORD072,Papa John's,13-03-2024 20:15,13-03-2024 20:40,25,Small,Vegan,High,Cash,TRUE,FALSE,March,Offline
+ORD073,Little Caesars,14-03-2024 18:30,14-03-2024 18:50,20,Medium,Non-Veg,Low,Wallet,TRUE,FALSE,March,Online
+ORD074,Pizza Hut,15-03-2024 19:45,15-03-2024 20:10,25,XL,Cheese Burst,Medium,Card,TRUE,FALSE,March,Online
+ORD075,Marco's Pizza,16-03-2024 13:00,16-03-2024 13:20,20,Medium,Non-Veg,High,UPI,FALSE,TRUE,March,Online
+ORD076,Domino's,17-03-2024 18:30,17-03-2024 18:50,20,Large,Veg,Low,Cash,TRUE,TRUE,March,Offline
+ORD077,Papa John's,18-03-2024 20:00,18-03-2024 20:25,25,Medium,Non-Veg,High,Wallet,TRUE,FALSE,March,Online
+ORD078,Little Caesars,19-03-2024 19:15,19-03-2024 19:35,20,Small,Vegan,Low,Card,TRUE,FALSE,March,Online
+ORD079,Pizza Hut,20-03-2024 19:45,20-03-2024 20:10,25,XL,Cheese Burst,Medium,UPI,TRUE,FALSE,March,Online
+ORD080,Marco's Pizza,21-03-2024 13:00,21-03-2024 13:20,20,Medium,Non-Veg,High,Cash,FALSE,FALSE,March,Offline
+ORD081,Domino's,22-03-2024 18:30,22-03-2024 18:50,20,Large,Veg,Low,Wallet,TRUE,FALSE,March,Online
+ORD082,Papa John's,23-03-2024 20:15,23-03-2024 20:40,25,Small,Vegan,High,Card,TRUE,TRUE,March,Online
+ORD083,Little Caesars,24-03-2024 18:30,24-03-2024 18:50,20,Medium,Non-Veg,High,UPI,TRUE,TRUE,March,Online
+ORD084,Pizza Hut,25-03-2024 19:45,25-03-2024 20:10,25,XL,Cheese Burst,Low,Cash,TRUE,FALSE,March,Offline
+ORD085,Marco's Pizza,26-03-2024 13:00,26-03-2024 13:20,20,Medium,Non-Veg,Medium,Wallet,FALSE,FALSE,March,Online
+ORD086,Domino's,27-03-2024 18:30,27-03-2024 18:50,20,Large,Veg,High,Card,TRUE,FALSE,March,Online
+ORD087,Papa John's,28-03-2024 20:00,28-03-2024 20:25,25,Medium,Non-Veg,Low,UPI,TRUE,FALSE,March,Online
+ORD088,Little Caesars,29-03-2024 19:15,29-03-2024 19:35,20,Small,Vegan,Low,Cash,TRUE,FALSE,March,Offline
+ORD089,Pizza Hut,30-03-2024 19:45,30-03-2024 20:10,25,XL,Cheese Burst,High,Wallet,TRUE,TRUE,March,Online
+ORD090,Marco's Pizza,31-03-2024 13:00,31-03-2024 13:20,20,Medium,Non-Veg,Medium,Card,FALSE,TRUE,March,Online
+ORD091,Domino's,01-04-2024 18:30,01-04-2024 18:50,20,Large,Veg,Low,UPI,TRUE,FALSE,April,Online
+ORD092,Papa John's,02-04-2024 20:15,02-04-2024 20:40,25,Small,Vegan,High,Cash,TRUE,FALSE,April,Offline
+ORD093,Little Caesars,03-04-2024 18:30,03-04-2024 18:50,20,Medium,Non-Veg,Low,Wallet,TRUE,FALSE,April,Online
+ORD094,Pizza Hut,04-04-2024 19:45,04-04-2024 20:10,25,XL,Cheese Burst,Medium,Card,TRUE,FALSE,April,Online
+ORD095,Marco's Pizza,05-04-2024 13:00,05-04-2024 13:20,20,Medium,Non-Veg,High,UPI,FALSE,FALSE,April,Online
+ORD096,Domino's,06-04-2024 18:30,06-04-2024 18:50,20,Large,Veg,High,Card,TRUE,TRUE,April,Online
+ORD097,Papa John's,07-04-2024 20:00,07-04-2024 20:25,25,Medium,Non-Veg,Medium,UPI,TRUE,TRUE,April,Online
+ORD098,Little Caesars,08-04-2024 19:15,08-04-2024 19:35,20,Small,Vegan,Low,Cash,TRUE,FALSE,April,Offline
+ORD099,Pizza Hut,09-04-2024 19:45,09-04-2024 20:10,25,XL,Cheese Burst,High,Wallet,TRUE,FALSE,April,Online
+ORD100,Marco's Pizza,10-04-2024 13:00,10-04-2024 13:20,20,Medium,Non-Veg,Low,Card,FALSE,FALSE,April,Online
+ORD101,Domino's,11-04-2024 18:30,11-04-2024 18:50,20,Large,Veg,Medium,UPI,TRUE,FALSE,April,Online
+ORD102,Papa John's,12-04-2024 20:15,12-04-2024 20:40,25,Small,Vegan,High,Cash,TRUE,FALSE,April,Offline
+ORD103,Little Caesars,13-04-2024 18:30,13-04-2024 18:50,20,Medium,Non-Veg,Low,Wallet,TRUE,TRUE,April,Online
+ORD104,Pizza Hut,14-04-2024 19:45,14-04-2024 20:10,25,XL,Cheese Burst,Medium,Card,TRUE,TRUE,April,Online
+ORD105,Marco's Pizza,15-04-2024 13:00,15-04-2024 13:20,20,Medium,Non-Veg,High,UPI,FALSE,FALSE,April,Online
+ORD106,Domino's,16-04-2024 18:30,16-04-2024 18:50,20,Large,Veg,Low,Cash,TRUE,FALSE,April,Offline
+ORD107,Papa John's,17-04-2024 20:00,17-04-2024 20:25,25,Medium,Non-Veg,High,Wallet,TRUE,FALSE,April,Online
+ORD108,Little Caesars,18-04-2024 19:15,18-04-2024 19:35,20,Small,Vegan,Low,Card,TRUE,FALSE,April,Online
+ORD109,Pizza Hut,19-04-2024 19:45,19-04-2024 20:10,25,XL,Cheese Burst,Medium,UPI,TRUE,FALSE,April,Online
+ORD110,Marco's Pizza,20-04-2024 13:00,20-04-2024 13:20,20,Medium,Non-Veg,High,Cash,FALSE,TRUE,April,Offline
+ORD111,Domino's,21-04-2024 18:30,21-04-2024 18:50,20,Large,Veg,Low,Wallet,TRUE,TRUE,April,Online
+ORD112,Papa John's,22-04-2024 20:15,22-04-2024 20:40,25,Small,Vegan,High,Card,TRUE,FALSE,April,Online
+ORD113,Little Caesars,23-04-2024 18:30,23-04-2024 18:50,20,Medium,Non-Veg,High,UPI,TRUE,FALSE,April,Online
+ORD114,Pizza Hut,24-04-2024 19:45,24-04-2024 20:10,25,XL,Cheese Burst,Low,Cash,TRUE,FALSE,April,Offline
+ORD115,Marco's Pizza,25-04-2024 13:00,25-04-2024 13:20,20,Medium,Non-Veg,Medium,Wallet,FALSE,FALSE,April,Online
+ORD116,Domino's,26-04-2024 18:30,26-04-2024 18:50,20,Large,Veg,High,Card,TRUE,FALSE,April,Online
+ORD117,Papa John's,27-04-2024 20:00,27-04-2024 20:25,25,Medium,Non-Veg,Low,UPI,TRUE,TRUE,April,Online
+ORD118,Little Caesars,28-04-2024 19:15,28-04-2024 19:35,20,Small,Vegan,Low,Cash,TRUE,TRUE,April,Offline
+ORD119,Pizza Hut,29-04-2024 19:45,29-04-2024 20:10,25,XL,Cheese Burst,High,Wallet,TRUE,FALSE,April,Online
+ORD120,Marco's Pizza,30-04-2024 13:00,30-04-2024 13:20,20,Medium,Non-Veg,Medium,Card,FALSE,FALSE,April,Online
+ORD121,Domino's,01-05-2024 18:30,01-05-2024 18:50,20,Large,Veg,Low,UPI,TRUE,FALSE,May,Online
+ORD122,Papa John's,02-05-2024 20:15,02-05-2024 20:40,25,Small,Vegan,High,Cash,TRUE,FALSE,May,Offline
+ORD123,Little Caesars,03-05-2024 18:30,03-05-2024 18:50,20,Medium,Non-Veg,Low,Wallet,TRUE,FALSE,May,Online
+ORD124,Pizza Hut,04-05-2024 19:45,04-05-2024 20:10,25,XL,Cheese Burst,Medium,Card,TRUE,TRUE,May,Online
+ORD125,Marco's Pizza,05-05-2024 13:00,05-05-2024 13:20,20,Medium,Non-Veg,High,UPI,FALSE,TRUE,May,Online
+ORD126,Domino's,01-08-2024 18:00,01-08-2024 18:20,20,Medium,Veg,Low,Card,TRUE,FALSE,August,Online
+ORD127,Papa John's,02-08-2024 19:15,02-08-2024 19:45,30,Large,Non-Veg,Medium,UPI,TRUE,FALSE,August,Online
+ORD128,Pizza Hut,03-08-2024 20:30,03-08-2024 21:10,40,XL,Cheese Burst,High,Wallet,TRUE,TRUE,August,Online
+ORD129,Little Caesars,04-08-2024 18:45,04-08-2024 19:05,20,Small,Vegan,Low,Cash,TRUE,TRUE,August,Offline
+ORD130,Marco's Pizza,05-08-2024 19:00,05-08-2024 19:50,50,Large,Non-Veg,High,Card,TRUE,FALSE,August,Online
+ORD131,Domino's,06-08-2024 20:00,06-08-2024 20:35,35,Medium,Veg,Medium,Wallet,TRUE,FALSE,August,Online
+ORD132,Papa John's,07-08-2024 18:30,07-08-2024 18:50,20,Small,Vegan,Low,UPI,TRUE,FALSE,August,Online
+ORD133,Pizza Hut,08-08-2024 19:45,08-08-2024 20:25,40,XL,Cheese Burst,High,Cash,TRUE,FALSE,August,Offline
+ORD134,Little Caesars,09-08-2024 18:00,09-08-2024 18:30,30,Medium,Non-Veg,Medium,Card,TRUE,FALSE,August,Online
+ORD135,Marco's Pizza,10-08-2024 20:15,10-08-2024 21:00,45,Large,Veg,High,Wallet,TRUE,TRUE,August,Online
+ORD136,Domino's,11-08-2024 18:00,11-08-2024 18:20,20,Medium,Veg,Low,UPI,TRUE,TRUE,August,Online
+ORD137,Papa John's,12-08-2024 19:15,12-08-2024 19:45,30,Large,Non-Veg,Medium,Cash,TRUE,FALSE,August,Offline
+ORD138,Pizza Hut,13-08-2024 20:30,13-08-2024 21:10,40,XL,Cheese Burst,High,Card,TRUE,FALSE,August,Online
+ORD139,Little Caesars,14-08-2024 18:45,14-08-2024 19:05,20,Small,Vegan,Low,Wallet,TRUE,FALSE,August,Online
+ORD140,Marco's Pizza,15-08-2024 19:00,15-08-2024 19:50,50,Large,Non-Veg,High,UPI,TRUE,FALSE,August,Online
+ORD141,Domino's,16-08-2024 20:00,16-08-2024 20:35,35,Medium,Veg,Medium,Cash,TRUE,FALSE,August,Offline
+ORD142,Papa John's,17-08-2024 18:30,17-08-2024 18:50,20,Small,Vegan,Low,Card,TRUE,TRUE,August,Online
+ORD143,Pizza Hut,18-08-2024 19:45,18-08-2024 20:25,40,XL,Cheese Burst,High,Wallet,TRUE,TRUE,August,Online
+ORD144,Little Caesars,19-08-2024 18:00,19-08-2024 18:30,30,Medium,Non-Veg,Medium,UPI,TRUE,FALSE,August,Online
+ORD145,Marco's Pizza,20-08-2024 20:15,20-08-2024 21:00,45,Large,Veg,High,Cash,TRUE,FALSE,August,Offline
+ORD146,Domino's,21-08-2024 18:00,21-08-2024 18:20,20,Medium,Veg,Low,Card,TRUE,FALSE,August,Online
+ORD147,Papa John's,22-08-2024 19:15,22-08-2024 19:45,30,Large,Non-Veg,Medium,Wallet,TRUE,FALSE,August,Online
+ORD148,Pizza Hut,23-08-2024 20:30,23-08-2024 21:10,40,XL,Cheese Burst,High,UPI,TRUE,FALSE,August,Online
+ORD149,Little Caesars,24-08-2024 18:45,24-08-2024 19:05,20,Small,Vegan,Low,Cash,TRUE,TRUE,August,Offline
+ORD150,Marco's Pizza,25-08-2024 19:00,25-08-2024 19:50,50,Large,Non-Veg,High,Card,TRUE,TRUE,August,Online
+ORD151,Domino's,01-08-2024 18:00,01-08-2024 18:30,30,Large,Veg,High,Domino's Cash,TRUE,FALSE,August,Offline
+ORD152,Pizza Hut,02-08-2024 19:15,02-08-2024 19:45,30,XL,Cheese Burst,Medium,Card,TRUE,FALSE,August,Online
+ORD153,Papa John's,03-08-2024 20:00,03-08-2024 20:35,35,Medium,Non-Veg,Low,UPI,TRUE,TRUE,August,Online
+ORD154,Little Caesars,04-08-2024 17:45,04-08-2024 18:05,20,Small,Vegan,Low,Wallet,FALSE,TRUE,August,Online
+ORD155,Marco's Pizza,05-08-2024 13:30,05-08-2024 14:00,30,Medium,Non-Veg,High,Cash,FALSE,FALSE,August,Offline
+ORD156,Domino's,06-08-2024 18:20,06-08-2024 18:50,30,Large,Veg,Medium,Domino's Cash,TRUE,FALSE,August,Offline
+ORD157,Papa John's,07-08-2024 20:10,07-08-2024 20:45,35,Small,Vegan,High,Card,TRUE,FALSE,August,Online
+ORD158,Little Caesars,08-08-2024 18:00,08-08-2024 18:25,25,Medium,Non-Veg,Low,UPI,TRUE,FALSE,August,Online
+ORD159,Pizza Hut,09-08-2024 19:30,09-08-2024 20:00,30,XL,Cheese Burst,Medium,Wallet,TRUE,FALSE,August,Online
+ORD160,Marco's Pizza,10-08-2024 12:45,10-08-2024 13:15,30,Medium,Non-Veg,High,Cash,FALSE,TRUE,August,Offline
+ORD161,Domino's,11-08-2024 18:15,11-08-2024 18:45,30,Large,Veg,Medium,Domino's Cash,TRUE,TRUE,August,Offline
+ORD162,Papa John's,12-08-2024 20:00,12-08-2024 20:30,30,Small,Vegan,Low,Card,TRUE,FALSE,August,Online
+ORD163,Little Caesars,13-08-2024 18:10,13-08-2024 18:35,25,Medium,Non-Veg,High,UPI,TRUE,FALSE,August,Online
+ORD164,Pizza Hut,14-08-2024 19:20,14-08-2024 19:50,30,XL,Cheese Burst,Medium,Wallet,TRUE,FALSE,August,Online
+ORD165,Marco's Pizza,15-08-2024 13:15,15-08-2024 13:45,30,Medium,Non-Veg,High,Cash,FALSE,FALSE,August,Offline
+ORD166,Domino's,16-08-2024 18:25,16-08-2024 18:55,30,Large,Veg,Medium,Domino's Cash,TRUE,FALSE,August,Offline
+ORD167,Papa John's,17-08-2024 20:05,17-08-2024 20:35,30,Small,Vegan,Low,Card,TRUE,TRUE,August,Online
+ORD168,Little Caesars,18-08-2024 18:00,18-08-2024 18:25,25,Medium,Non-Veg,High,UPI,TRUE,TRUE,August,Online
+ORD169,Pizza Hut,19-08-2024 19:30,19-08-2024 20:00,30,XL,Cheese Burst,Medium,Wallet,TRUE,FALSE,August,Online
+ORD170,Marco's Pizza,20-08-2024 13:00,20-08-2024 13:30,30,Medium,Non-Veg,Low,Cash,FALSE,FALSE,August,Offline
+ORD171,Domino's,21-08-2024 18:15,21-08-2024 18:45,30,Large,Veg,High,Domino's Cash,TRUE,FALSE,August,Offline
+ORD172,Papa John's,22-08-2024 20:00,22-08-2024 20:30,30,Small,Vegan,Medium,Card,TRUE,FALSE,August,Online
+ORD173,Little Caesars,23-08-2024 18:10,23-08-2024 18:35,25,Medium,Non-Veg,Low,UPI,TRUE,FALSE,August,Online
+ORD174,Pizza Hut,24-08-2024 19:20,24-08-2024 19:50,30,XL,Cheese Burst,High,Wallet,TRUE,TRUE,August,Online
+ORD175,Marco's Pizza,20-06-2024 13:00,20-06-2024 13:20,20,Medium,Non-Veg,Medium,Card,FALSE,FALSE,June,Online
+ORD176,Domino's,21-06-2024 18:30,21-06-2024 18:50,20,Large,Veg,Low,UPI,TRUE,FALSE,June,Online
+ORD177,Papa John's,22-06-2024 20:15,22-06-2024 20:40,25,Small,Vegan,High,Cash,TRUE,TRUE,June,Offline
+ORD178,Little Caesars,23-06-2024 18:30,23-06-2024 18:50,20,Medium,Non-Veg,High,UPI,TRUE,TRUE,June,Online
+ORD179,Pizza Hut,24-06-2024 19:45,24-06-2024 20:10,25,XL,Cheese Burst,Low,Cash,TRUE,FALSE,June,Offline
+ORD180,Marco's Pizza,25-06-2024 13:00,25-06-2024 13:20,20,Medium,Non-Veg,Medium,Wallet,FALSE,FALSE,June,Online
+ORD181,Domino's,26-06-2024 18:30,26-06-2024 18:55,25,Large,Veg,High,Card,TRUE,FALSE,June,Online
+ORD182,Papa John's,27-06-2024 20:00,27-06-2024 20:25,25,Medium,Non-Veg,Medium,UPI,TRUE,FALSE,June,Online
+ORD183,Little Caesars,28-06-2024 19:15,28-06-2024 19:35,20,Small,Vegan,Low,Cash,TRUE,FALSE,June,Offline
+ORD184,Pizza Hut,29-06-2024 19:45,29-06-2024 20:10,25,XL,Cheese Burst,High,Wallet,TRUE,TRUE,June,Online
+ORD185,Marco's Pizza,30-06-2024 13:00,30-06-2024 13:20,20,Medium,Non-Veg,Low,Card,FALSE,TRUE,June,Online
+ORD186,Domino's,01-07-2024 18:30,01-07-2024 18:50,20,Large,Veg,Medium,UPI,TRUE,FALSE,July,Online
+ORD187,Papa John's,02-07-2024 20:15,02-07-2024 20:40,25,Small,Vegan,High,Cash,TRUE,FALSE,July,Offline
+ORD188,Little Caesars,03-07-2024 18:30,03-07-2024 18:50,20,Medium,Non-Veg,Low,Wallet,TRUE,FALSE,July,Online
+ORD189,Pizza Hut,04-07-2024 19:45,04-07-2024 20:10,25,XL,Cheese Burst,Medium,Card,TRUE,FALSE,July,Online
+ORD190,Marco's Pizza,05-07-2024 13:00,05-07-2024 13:20,20,Medium,Non-Veg,High,UPI,FALSE,FALSE,July,Online
+ORD191,Domino's,06-07-2024 18:30,06-07-2024 18:50,20,Large,Veg,Low,Cash,TRUE,TRUE,July,Offline
+ORD192,Papa John's,07-07-2024 20:15,07-07-2024 20:40,25,Small,Vegan,High,Wallet,TRUE,TRUE,July,Online
+ORD193,Little Caesars,08-07-2024 18:30,08-07-2024 18:50,20,Medium,Non-Veg,High,UPI,TRUE,FALSE,July,Online
+ORD194,Pizza Hut,09-07-2024 19:45,09-07-2024 20:10,25,XL,Cheese Burst,Low,Cash,TRUE,FALSE,July,Offline
+ORD195,Marco's Pizza,10-07-2024 13:00,10-07-2024 13:20,20,Medium,Non-Veg,Medium,Wallet,FALSE,FALSE,July,Online
+ORD196,Domino's,11-07-2024 18:30,11-07-2024 18:50,20,Large,Veg,High,Card,TRUE,FALSE,July,Online
+ORD197,Papa John's,12-07-2024 20:00,12-07-2024 20:25,25,Medium,Non-Veg,Low,UPI,TRUE,FALSE,July,Online
+ORD198,Little Caesars,13-07-2024 19:15,13-07-2024 19:35,20,Small,Vegan,Low,Cash,TRUE,TRUE,July,Offline
+ORD199,Pizza Hut,14-07-2024 19:45,14-07-2024 20:10,25,XL,Cheese Burst,High,Wallet,TRUE,TRUE,July,Online
+ORD200,Marco's Pizza,15-07-2024 13:00,15-07-2024 13:20,20,Medium,Non-Veg,Medium,Card,FALSE,FALSE,July,Online
+ORD201,Domino's,16-07-2024 18:30,16-07-2024 18:55,25,Large,Veg,High,Card,TRUE,FALSE,July,Online
+ORD202,Papa John's,17-07-2024 19:00,17-07-2024 19:30,30,Medium,Non-Veg,Medium,UPI,TRUE,FALSE,July,Online
+ORD203,Little Caesars,18-07-2024 20:15,18-07-2024 20:40,25,Small,Vegan,Low,Cash,TRUE,FALSE,July,Offline
+ORD204,Pizza Hut,19-07-2024 19:45,19-07-2024 20:10,25,XL,Cheese Burst,High,Wallet,TRUE,FALSE,July,Online
+ORD205,Marco's Pizza,20-07-2024 13:00,20-07-2024 13:25,25,Medium,Non-Veg,Low,Card,FALSE,TRUE,July,Online
+ORD206,Domino's,21-07-2024 18:30,21-07-2024 18:55,25,Large,Veg,High,UPI,TRUE,TRUE,July,Online
+ORD207,Papa John's,22-07-2024 20:15,22-07-2024 20:40,25,Small,Vegan,Medium,Cash,TRUE,FALSE,July,Offline
+ORD208,Little Caesars,23-07-2024 18:30,23-07-2024 18:50,20,Medium,Non-Veg,Low,Wallet,TRUE,FALSE,July,Online
+ORD209,Pizza Hut,24-07-2024 19:45,24-07-2024 20:10,25,XL,Cheese Burst,High,Card,TRUE,FALSE,July,Online
+ORD210,Marco's Pizza,25-07-2024 13:00,25-07-2024 13:20,20,Medium,Non-Veg,Low,UPI,FALSE,FALSE,July,Online
+ORD211,Domino's,26-07-2024 18:30,26-07-2024 18:50,20,Large,Veg,Medium,Cash,TRUE,FALSE,July,Offline
+ORD212,Papa John's,27-07-2024 20:15,27-07-2024 20:40,25,Small,Vegan,High,Wallet,TRUE,TRUE,July,Online
+ORD213,Little Caesars,28-07-2024 18:30,28-07-2024 18:50,20,Medium,Non-Veg,High,UPI,TRUE,TRUE,July,Online
+ORD214,Pizza Hut,29-07-2024 19:45,29-07-2024 20:10,25,XL,Cheese Burst,Low,Cash,TRUE,FALSE,July,Offline
+ORD215,Marco's Pizza,30-07-2024 13:00,30-07-2024 13:20,20,Medium,Non-Veg,Medium,Wallet,FALSE,FALSE,July,Online
+ORD216,Domino's,31-07-2024 18:30,31-07-2024 18:50,20,Large,Veg,High,Card,TRUE,FALSE,July,Online
+ORD217,Papa John's,01-08-2024 20:00,01-08-2024 20:25,25,Medium,Non-Veg,Low,UPI,TRUE,FALSE,August,Online
+ORD218,Little Caesars,02-08-2024 19:15,02-08-2024 19:35,20,Small,Vegan,Low,Cash,TRUE,FALSE,August,Offline
+ORD219,Pizza Hut,03-08-2024 19:45,03-08-2024 20:10,25,XL,Cheese Burst,High,Wallet,TRUE,TRUE,August,Online
+ORD220,Marco's Pizza,04-08-2024 13:00,04-08-2024 13:20,20,Medium,Non-Veg,Medium,Card,FALSE,TRUE,August,Online
+ORD221,Domino's,05-08-2024 18:30,05-08-2024 18:55,25,Large,Veg,High,Card,TRUE,FALSE,August,Online
+ORD222,Papa John's,06-08-2024 19:00,06-08-2024 19:30,30,Medium,Non-Veg,Medium,UPI,TRUE,FALSE,August,Online
+ORD223,Little Caesars,07-08-2024 20:15,07-08-2024 20:40,25,Small,Vegan,Low,Cash,TRUE,FALSE,August,Offline
+ORD224,Pizza Hut,08-08-2024 19:45,08-08-2024 20:10,25,XL,Cheese Burst,High,Wallet,TRUE,FALSE,August,Online
+ORD225,Marco's Pizza,09-08-2024 13:00,09-08-2024 13:25,25,Medium,Non-Veg,Low,Card,FALSE,FALSE,August,Online
+ORD226,Domino's,10-08-2024 18:30,10-08-2024 18:55,25,Large,Veg,High,UPI,TRUE,TRUE,August,Online
+ORD227,Papa John's,11-08-2024 20:15,11-08-2024 20:40,25,Small,Vegan,Medium,Cash,TRUE,TRUE,August,Offline
+ORD228,Little Caesars,12-08-2024 18:30,12-08-2024 18:50,20,Medium,Non-Veg,Low,Wallet,TRUE,FALSE,August,Online
+ORD229,Pizza Hut,13-08-2024 19:45,13-08-2024 20:10,25,XL,Cheese Burst,Low,Cash,TRUE,FALSE,August,Offline
+ORD230,Domino's,14-08-2024 18:30,14-08-2024 19:05,35,Large,Veg,High,UPI,TRUE,FALSE,August,Online
+ORD231,Papa John's,15-08-2024 20:15,15-08-2024 20:40,25,Medium,Non-Veg,Medium,Card,TRUE,FALSE,August,Online
+ORD232,Little Caesars,16-08-2024 19:00,16-08-2024 19:20,20,Small,Vegan,Low,Wallet,TRUE,FALSE,August,Online
+ORD233,Marco's Pizza,17-08-2024 13:00,17-08-2024 13:30,30,Medium,Non-Veg,High,UPI,FALSE,TRUE,August,Online
+ORD234,Domino's,18-08-2024 18:30,18-08-2024 19:10,40,Large,Veg,High,Card,TRUE,TRUE,August,Online
+ORD235,Papa John's,19-08-2024 20:15,19-08-2024 20:35,20,Small,Vegan,Medium,Cash,TRUE,FALSE,August,Offline
+ORD236,Little Caesars,20-08-2024 18:30,20-08-2024 18:50,20,Medium,Non-Veg,Low,Wallet,TRUE,FALSE,August,Online
+ORD237,Pizza Hut,21-08-2024 19:45,21-08-2024 20:15,30,XL,Cheese Burst,High,Card,TRUE,FALSE,August,Online
+ORD238,Marco's Pizza,22-08-2024 13:00,22-08-2024 13:25,25,Medium,Non-Veg,Low,UPI,FALSE,FALSE,August,Online
+ORD239,Domino's,23-08-2024 18:30,23-08-2024 18:50,20,Large,Veg,Medium,Cash,TRUE,FALSE,August,Offline
+ORD240,Papa John's,24-08-2024 20:15,24-08-2024 20:40,25,Small,Vegan,High,Wallet,TRUE,TRUE,August,Online
+ORD241,Little Caesars,25-08-2024 18:30,25-08-2024 18:50,20,Medium,Non-Veg,High,UPI,TRUE,TRUE,August,Online
+ORD242,Pizza Hut,26-08-2024 19:45,26-08-2024 20:10,25,XL,Cheese Burst,Low,Cash,TRUE,FALSE,August,Offline
+ORD243,Marco's Pizza,27-08-2024 13:00,27-08-2024 13:20,20,Medium,Non-Veg,Medium,Wallet,FALSE,FALSE,August,Online
+ORD244,Domino's,28-08-2024 18:30,28-08-2024 18:55,25,Large,Veg,High,Card,TRUE,FALSE,August,Online
+ORD245,Papa John's,29-08-2024 20:15,29-08-2024 20:40,25,Small,Vegan,Medium,Cash,TRUE,FALSE,August,Offline
+ORD246,Little Caesars,30-08-2024 18:30,30-08-2024 18:50,20,Medium,Non-Veg,Low,Wallet,TRUE,FALSE,August,Online
+ORD247,Pizza Hut,31-08-2024 19:45,31-08-2024 20:10,25,XL,Cheese Burst,High,Card,TRUE,TRUE,August,Online
+ORD248,Marco's Pizza,01-09-2024 13:00,01-09-2024 13:20,20,Medium,Non-Veg,Low,UPI,FALSE,TRUE,September,Online
+ORD249,Domino's,02-09-2024 18:30,02-09-2024 18:50,20,Large,Veg,Medium,Cash,TRUE,FALSE,September,Offline
+ORD250,Papa John's,03-09-2024 20:15,03-09-2024 20:40,25,Small,Vegan,High,Wallet,TRUE,FALSE,September,Online
+ORD251,Little Caesars,04-09-2024 18:30,04-09-2024 18:50,20,Medium,Non-Veg,High,UPI,TRUE,FALSE,September,Online
+ORD252,Pizza Hut,05-09-2024 19:45,05-09-2024 20:10,25,XL,Cheese Burst,Low,Cash,TRUE,FALSE,September,Offline
+ORD253,Marco's Pizza,06-09-2024 13:00,06-09-2024 13:20,20,Medium,Non-Veg,Medium,Wallet,FALSE,FALSE,September,Online
+ORD254,Domino's,07-09-2024 18:30,07-09-2024 18:55,25,Large,Veg,High,Card,TRUE,TRUE,September,Online
+ORD255,Papa John's,08-09-2024 20:15,08-09-2024 20:40,25,Small,Vegan,Medium,Cash,TRUE,TRUE,September,Offline
+ORD256,Little Caesars,09-09-2024 18:30,09-09-2024 18:50,20,Medium,Non-Veg,Low,Wallet,TRUE,FALSE,September,Online
+ORD257,Domino's,10-09-2024 18:00,10-09-2024 18:25,25,Large,Veg,High,Cash,TRUE,FALSE,September,Offline
+ORD258,Domino's,11-09-2024 19:15,11-09-2024 19:35,20,Medium,Non-Veg,Medium,Card,TRUE,FALSE,September,Online
+ORD259,Domino's,12-09-2024 20:30,12-09-2024 20:50,20,Small,Vegan,Low,Wallet,TRUE,FALSE,September,Online
+ORD260,Domino's,13-09-2024 18:45,13-09-2024 19:10,25,XL,Cheese Burst,High,UPI,TRUE,FALSE,September,Online
+ORD261,Domino's,14-09-2024 19:00,14-09-2024 19:20,20,Medium,Non-Veg,Medium,Cash,TRUE,TRUE,September,Offline
+ORD262,Domino's,15-09-2024 20:00,15-09-2024 20:25,25,Large,Veg,High,Card,TRUE,TRUE,September,Online
+ORD263,Domino's,16-09-2024 18:30,16-09-2024 18:50,20,Small,Vegan,Low,Wallet,TRUE,FALSE,September,Online
+ORD264,Domino's,17-09-2024 19:45,17-09-2024 20:10,25,XL,Cheese Burst,Medium,UPI,TRUE,FALSE,September,Online
+ORD265,Domino's,18-09-2024 18:00,18-09-2024 18:20,20,Medium,Non-Veg,High,Cash,TRUE,FALSE,September,Offline
+ORD266,Domino's,19-09-2024 20:15,19-09-2024 20:40,25,Large,Veg,High,Card,TRUE,FALSE,September,Online
+ORD267,Domino's,10-09-2024 18:00,10-09-2024 18:20,20,Medium,Veg,Low,Cash,TRUE,FALSE,September,Offline
+ORD268,Papa John's,11-09-2024 19:15,11-09-2024 19:45,30,Large,Non-Veg,Medium,Card,TRUE,FALSE,September,Online
+ORD269,Pizza Hut,12-09-2024 20:30,12-09-2024 21:10,40,XL,Cheese Burst,High,Wallet,TRUE,FALSE,September,Online
+ORD270,Little Caesars,13-09-2024 18:45,13-09-2024 19:05,20,Small,Vegan,Low,UPI,TRUE,FALSE,September,Online
+ORD271,Marco's Pizza,14-09-2024 19:00,14-09-2024 19:50,50,Large,Non-Veg,High,Cash,TRUE,TRUE,September,Offline
+ORD272,Domino's,15-09-2024 20:00,15-09-2024 20:35,35,Medium,Veg,Medium,Card,TRUE,TRUE,September,Online
+ORD273,Papa John's,16-09-2024 18:30,16-09-2024 18:50,20,Small,Vegan,Low,Wallet,TRUE,FALSE,September,Online
+ORD274,Pizza Hut,17-09-2024 19:45,17-09-2024 20:25,40,XL,Cheese Burst,High,UPI,TRUE,FALSE,September,Online
+ORD275,Little Caesars,18-09-2024 18:00,18-09-2024 18:30,30,Medium,Non-Veg,Medium,Cash,TRUE,FALSE,September,Offline
+ORD276,Marco's Pizza,19-09-2024 20:15,19-09-2024 21:00,45,Large,Veg,High,Card,TRUE,FALSE,September,Online
+ORD278,Domino's,15-09-2024 18:45,15-09-2024 19:10,25,Large,Veg,High,Domino's Cash,TRUE,TRUE,September,Offline
+ORD279,Pizza Hut,16-09-2024 20:00,16-09-2024 20:30,30,XL,Cheese Burst,Medium,Card,TRUE,FALSE,September,Online
+ORD280,Papa John's,17-09-2024 19:15,17-09-2024 19:35,20,Medium,Non-Veg,Low,UPI,TRUE,FALSE,September,Online
+ORD281,Little Caesars,18-09-2024 18:30,18-09-2024 19:05,35,Small,Vegan,High,Wallet,TRUE,FALSE,September,Online
+ORD282,Marco's Pizza,19-09-2024 13:00,19-09-2024 13:20,20,Medium,Non-Veg,Low,Card,FALSE,FALSE,September,Online
+ORD283,Domino's,20-09-2024 18:45,20-09-2024 19:15,30,Large,Veg,Medium,Domino's Cash,TRUE,FALSE,September,Offline
+ORD284,Pizza Hut,21-09-2024 20:15,21-09-2024 20:40,25,XL,Cheese Burst,Low,UPI,TRUE,TRUE,September,Online
+ORD285,Papa John's,22-09-2024 19:30,22-09-2024 19:55,25,Small,Vegan,High,Wallet,TRUE,TRUE,September,Online
+ORD286,Little Caesars,23-09-2024 18:00,23-09-2024 18:20,20,Medium,Non-Veg,Medium,Card,TRUE,FALSE,September,Online
+ORD287,Marco's Pizza,24-09-2024 13:15,24-09-2024 13:45,30,Medium,Non-Veg,High,UPI,FALSE,FALSE,September,Online
+ORD288,Domino's,25-09-2024 18:30,25-09-2024 19:00,30,Large,Veg,High,Domino's Cash,TRUE,FALSE,September,Offline
+ORD289,Pizza Hut,26-09-2024 19:45,26-09-2024 20:10,25,XL,Cheese Burst,Low,Cash,TRUE,FALSE,September,Offline
+ORD290,Papa John's,27-09-2024 20:15,27-09-2024 20:40,25,Medium,Non-Veg,Medium,Card,TRUE,FALSE,September,Online
+ORD291,Little Caesars,28-09-2024 18:30,28-09-2024 18:50,20,Small,Vegan,Low,Wallet,TRUE,TRUE,September,Online
+ORD292,Marco's Pizza,29-09-2024 13:00,29-09-2024 13:20,20,Medium,Non-Veg,Low,UPI,FALSE,TRUE,September,Online
+ORD293,Domino's,30-09-2024 18:30,30-09-2024 18:55,25,Large,Veg,High,Domino's Cash,TRUE,FALSE,September,Offline
+ORD294,Pizza Hut,01-10-2024 19:45,01-10-2024 20:10,25,XL,Cheese Burst,High,Card,TRUE,FALSE,October,Online
+ORD295,Papa John's,02-10-2024 20:15,02-10-2024 20:40,25,Small,Vegan,Medium,Wallet,TRUE,FALSE,October,Online
+ORD296,Little Caesars,03-10-2024 18:30,03-10-2024 18:50,20,Medium,Non-Veg,Low,UPI,TRUE,FALSE,October,Online
+ORD297,Marco's Pizza,04-10-2024 13:00,04-10-2024 13:20,20,Medium,Non-Veg,Low,Card,FALSE,FALSE,October,Online
+ORD298,Domino's,05-10-2024 18:30,05-10-2024 18:55,25,Large,Veg,High,Domino's Cash,TRUE,TRUE,October,Offline
+ORD299,Pizza Hut,06-10-2024 19:45,06-10-2024 20:10,25,XL,Cheese Burst,Low,Cash,TRUE,TRUE,October,Offline
+ORD300,Papa John's,07-10-2024 20:15,07-10-2024 20:40,25,Medium,Non-Veg,Medium,Card,TRUE,FALSE,October,Online
+ORD301,Little Caesars,08-10-2024 18:30,08-10-2024 18:50,20,Small,Vegan,Low,Wallet,TRUE,FALSE,October,Online
+ORD302,Marco's Pizza,09-10-2024 13:00,09-10-2024 13:20,20,Medium,Non-Veg,Low,UPI,FALSE,FALSE,October,Online
+ORD303,Domino's,10-10-2024 18:30,10-10-2024 18:55,25,Large,Veg,High,Domino's Cash,TRUE,FALSE,October,Offline
+ORD304,Pizza Hut,11-10-2024 19:45,11-10-2024 20:10,25,XL,Cheese Burst,Low,Card,TRUE,FALSE,October,Online
+ORD305,Papa John's,12-10-2024 20:15,12-10-2024 20:40,25,Small,Vegan,Medium,Wallet,TRUE,TRUE,October,Online
+ORD306,Little Caesars,13-10-2024 18:30,13-10-2024 18:50,20,Medium,Non-Veg,Low,UPI,TRUE,TRUE,October,Online
+ORD307,Domino's,26-08-2024 18:00,26-08-2024 18:20,20,Medium,Veg,Low,Card,TRUE,FALSE,August,Online
+ORD308,Papa John's,27-08-2024 19:15,27-08-2024 19:45,30,Large,Non-Veg,Medium,UPI,TRUE,FALSE,August,Online
+ORD309,Pizza Hut,28-08-2024 20:30,28-08-2024 21:10,40,XL,Cheese Burst,High,Hut Points,TRUE,FALSE,August,Offline
+ORD310,Little Caesars,29-08-2024 18:45,29-08-2024 19:05,20,Small,Vegan,Low,Cash,TRUE,FALSE,August,Offline
+ORD311,Marco's Pizza,30-08-2024 19:00,30-08-2024 19:50,50,Large,Non-Veg,High,Card,TRUE,FALSE,August,Online
+ORD312,Domino's,31-08-2024 20:00,31-08-2024 20:35,35,Medium,Veg,Medium,Wallet,TRUE,TRUE,August,Online
+ORD313,Papa John's,01-09-2024 18:30,01-09-2024 18:50,20,Small,Vegan,Low,UPI,TRUE,TRUE,September,Online
+ORD314,Pizza Hut,02-09-2024 19:45,02-09-2024 20:25,40,XL,Cheese Burst,High,Hut Points,TRUE,FALSE,September,Offline
+ORD315,Little Caesars,03-09-2024 18:00,03-09-2024 18:30,30,Medium,Non-Veg,Medium,Cash,TRUE,FALSE,September,Offline
+ORD316,Marco's Pizza,04-09-2024 20:15,04-09-2024 21:00,45,Large,Veg,High,Wallet,TRUE,FALSE,September,Online
+ORD317,Domino's,05-09-2024 18:00,05-09-2024 18:20,20,Medium,Veg,Low,Card,TRUE,FALSE,September,Online
+ORD318,Papa John's,06-09-2024 19:15,06-09-2024 19:45,30,Large,Non-Veg,Medium,Cash,TRUE,FALSE,September,Offline
+ORD319,Pizza Hut,07-09-2024 20:30,07-09-2024 21:10,40,XL,Cheese Burst,High,Hut Points,TRUE,TRUE,September,Offline
+ORD320,Little Caesars,08-09-2024 18:45,08-09-2024 19:05,20,Small,Vegan,Low,Wallet,TRUE,TRUE,September,Online
+ORD321,Marco's Pizza,09-09-2024 19:00,09-09-2024 19:50,50,Large,Non-Veg,High,Card,TRUE,FALSE,September,Online
+ORD322,Domino's,10-09-2024 20:00,10-09-2024 20:35,35,Medium,Veg,Medium,Wallet,TRUE,FALSE,September,Online
+ORD323,Papa John's,11-09-2024 18:30,11-09-2024 18:50,20,Small,Vegan,Low,UPI,TRUE,FALSE,September,Online
+ORD324,Pizza Hut,12-09-2024 19:45,12-09-2024 20:25,40,XL,Cheese Burst,High,Hut Points,TRUE,FALSE,September,Offline
+ORD325,Little Caesars,13-09-2024 18:00,13-09-2024 18:30,30,Medium,Non-Veg,Medium,Cash,TRUE,FALSE,September,Offline
+ORD326,Marco's Pizza,14-09-2024 20:15,14-09-2024 21:00,45,Large,Veg,High,Wallet,TRUE,TRUE,September,Online
+ORD327,Domino's,15-09-2024 18:00,15-09-2024 18:20,20,Medium,Veg,Low,Card,TRUE,TRUE,September,Online
+ORD328,Papa John's,16-09-2024 19:15,16-09-2024 19:45,30,Large,Non-Veg,Medium,Cash,TRUE,FALSE,September,Offline
+ORD329,Pizza Hut,17-09-2024 20:30,17-09-2024 21:10,40,XL,Cheese Burst,High,Hut Points,TRUE,FALSE,September,Offline
+ORD330,Little Caesars,18-09-2024 18:45,18-09-2024 19:05,20,Small,Vegan,Low,Wallet,TRUE,FALSE,September,Online
+ORD331,Marco's Pizza,19-09-2024 19:00,19-09-2024 19:50,50,Large,Non-Veg,High,Card,TRUE,FALSE,September,Online
+ORD332,Domino's,20-09-2024 18:00,20-09-2024 18:20,20,Medium,Veg,Low,Domino's Cash,TRUE,FALSE,September,Offline
+ORD333,Papa John's,21-09-2024 19:15,21-09-2024 19:45,30,Large,Non-Veg,Medium,UPI,TRUE,TRUE,September,Online
+ORD334,Pizza Hut,22-09-2024 20:30,22-09-2024 21:10,40,XL,Cheese Burst,High,Hut Points,TRUE,TRUE,September,Offline
+ORD335,Little Caesars,23-09-2024 18:45,23-09-2024 19:05,20,Small,Vegan,Low,Cash,TRUE,FALSE,September,Offline
+ORD336,Marco's Pizza,24-09-2024 19:00,24-09-2024 19:50,50,Large,Non-Veg,High,Card,TRUE,FALSE,September,Online
+ORD337,Domino's,25-09-2024 20:00,25-09-2024 20:20,20,Medium,Veg,Low,Card,TRUE,FALSE,September,Online
+ORD338,Papa John's,26-09-2024 19:15,26-09-2024 19:45,30,Large,Non-Veg,Medium,UPI,TRUE,FALSE,September,Online
+ORD339,Pizza Hut,27-09-2024 20:30,27-09-2024 21:10,40,XL,Cheese Burst,High,Hut Points,TRUE,FALSE,September,Offline
+ORD340,Little Caesars,28-09-2024 18:45,28-09-2024 19:05,20,Small,Vegan,Low,Cash,TRUE,TRUE,September,Offline
+ORD341,Marco's Pizza,29-09-2024 19:00,29-09-2024 19:50,50,Large,Non-Veg,High,Card,TRUE,TRUE,September,Online
+ORD342,Domino's,30-09-2024 20:00,30-09-2024 20:35,35,Medium,Veg,Medium,Wallet,TRUE,FALSE,September,Online
+ORD343,Papa John's,01-10-2024 18:30,01-10-2024 18:50,20,Small,Vegan,Low,UPI,TRUE,FALSE,October,Online
+ORD344,Pizza Hut,02-10-2024 19:45,02-10-2024 20:25,40,XL,Cheese Burst,High,Hut Points,TRUE,FALSE,October,Offline
+ORD345,Little Caesars,03-10-2024 18:00,03-10-2024 18:30,30,Medium,Non-Veg,Medium,Cash,TRUE,FALSE,October,Offline
+ORD346,Marco's Pizza,04-10-2024 20:15,04-10-2024 21:00,45,Large,Veg,High,Wallet,TRUE,FALSE,October,Online
+ORD347,Domino's,05-10-2024 18:00,05-10-2024 18:20,20,Medium,Veg,Low,Card,TRUE,TRUE,October,Online
+ORD348,Papa John's,06-10-2024 19:15,06-10-2024 19:45,30,Large,Non-Veg,Medium,Cash,TRUE,TRUE,October,Offline
+ORD349,Pizza Hut,07-10-2024 20:30,07-10-2024 21:10,40,XL,Cheese Burst,High,Hut Points,TRUE,FALSE,October,Offline
+ORD350,Little Caesars,08-10-2024 18:45,08-10-2024 19:05,20,Small,Vegan,Low,Wallet,TRUE,FALSE,October,Online
+ORD351,Marco's Pizza,09-10-2024 19:00,09-10-2024 19:50,50,Large,Non-Veg,High,Card,TRUE,FALSE,October,Online
+ORD352,Domino's,10-10-2024 20:00,10-10-2024 20:35,35,Medium,Veg,Medium,Wallet,TRUE,FALSE,October,Online
+ORD353,Papa John's,11-10-2024 18:30,11-10-2024 18:50,20,Small,Vegan,Low,UPI,TRUE,FALSE,October,Online
+ORD354,Pizza Hut,12-10-2024 19:45,12-10-2024 20:25,40,XL,Cheese Burst,High,Hut Points,TRUE,TRUE,October,Offline
+ORD355,Little Caesars,13-10-2024 18:00,13-10-2024 18:30,30,Medium,Non-Veg,Medium,Cash,TRUE,TRUE,October,Offline
+ORD356,Marco's Pizza,14-10-2024 20:15,14-10-2024 21:00,45,Large,Veg,High,Wallet,TRUE,FALSE,October,Online
+ORD357,Domino's,15-10-2024 18:00,15-10-2024 18:20,20,Medium,Veg,Low,Card,TRUE,FALSE,October,Online
+ORD358,Papa John's,16-10-2024 19:15,16-10-2024 19:45,30,Large,Non-Veg,Medium,Wallet,TRUE,FALSE,October,Online
+ORD359,Pizza Hut,17-10-2024 20:30,17-10-2024 21:10,40,XL,Cheese Burst,High,Hut Points,TRUE,FALSE,October,Offline
+ORD360,Little Caesars,18-10-2024 18:45,18-10-2024 19:05,20,Small,Vegan,Low,Cash,TRUE,FALSE,October,Offline
+ORD361,Marco's Pizza,19-10-2024 19:00,19-10-2024 19:50,50,Large,Non-Veg,High,Card,TRUE,TRUE,October,Online
+ORD362,Domino's,20-10-2024 18:00,20-10-2024 18:20,20,Medium,Veg,Low,Domino's Cash,TRUE,TRUE,October,Offline
+ORD363,Domino's,21-10-2024 20:00,21-10-2024 20:20,20,Medium,Veg,Low,Card,TRUE,FALSE,October,Online
+ORD364,Papa John's,22-10-2024 19:15,22-10-2024 19:45,30,Large,Non-Veg,Medium,UPI,TRUE,FALSE,October,Online
+ORD365,Pizza Hut,23-10-2024 20:30,23-10-2024 21:10,40,XL,Cheese Burst,High,Hut Points,TRUE,FALSE,October,Offline
+ORD366,Little Caesars,24-10-2024 18:45,24-10-2024 19:05,20,Small,Vegan,Low,Cash,TRUE,FALSE,October,Offline
+ORD367,Marco's Pizza,25-10-2024 19:00,25-10-2024 19:50,50,Large,Non-Veg,High,Card,TRUE,FALSE,October,Online
+ORD368,Domino's,26-10-2024 20:00,26-10-2024 20:35,35,Medium,Veg,Medium,Wallet,TRUE,TRUE,October,Online
+ORD369,Papa John's,27-10-2024 18:30,27-10-2024 18:50,20,Small,Vegan,Low,UPI,TRUE,TRUE,October,Online
+ORD370,Pizza Hut,28-10-2024 19:45,28-10-2024 20:25,40,XL,Cheese Burst,High,Hut Points,TRUE,FALSE,October,Offline
+ORD371,Little Caesars,29-10-2024 18:00,29-10-2024 18:30,30,Medium,Non-Veg,Medium,Card,TRUE,FALSE,October,Online
+ORD372,Marco's Pizza,30-10-2024 20:15,30-10-2024 21:00,45,Large,Veg,High,Wallet,TRUE,FALSE,October,Online
+ORD373,Domino's,31-10-2024 18:00,31-10-2024 18:20,20,Medium,Veg,Low,Card,TRUE,FALSE,October,Online
+ORD374,Papa John's,01-11-2024 19:15,01-11-2024 19:45,30,Large,Non-Veg,Medium,Cash,TRUE,FALSE,November,Offline
+ORD375,Pizza Hut,02-11-2024 20:30,02-11-2024 21:10,40,XL,Cheese Burst,High,Hut Points,TRUE,TRUE,November,Offline
+ORD376,Little Caesars,03-11-2024 18:45,03-11-2024 19:05,20,Small,Vegan,Low,Wallet,TRUE,TRUE,November,Online
+ORD377,Marco's Pizza,04-11-2024 19:00,04-11-2024 19:50,50,Large,Non-Veg,High,Card,TRUE,FALSE,November,Online
+ORD378,Domino's,05-11-2024 20:00,05-11-2024 20:35,35,Medium,Veg,Medium,Wallet,TRUE,FALSE,November,Online
+ORD379,Papa John's,06-11-2024 18:30,06-11-2024 18:50,20,Small,Vegan,Low,UPI,TRUE,FALSE,November,Online
+ORD380,Pizza Hut,07-11-2024 19:45,07-11-2024 20:25,40,XL,Cheese Burst,High,Hut Points,TRUE,FALSE,November,Offline
+ORD381,Little Caesars,08-11-2024 18:00,08-11-2024 18:30,30,Medium,Non-Veg,Medium,UPI,TRUE,FALSE,November,Online
+ORD382,Marco's Pizza,09-11-2024 20:15,09-11-2024 21:00,45,Large,Veg,High,Cash,TRUE,TRUE,November,Offline
+ORD383,Domino's,10-11-2024 18:00,10-11-2024 18:20,20,Medium,Veg,Low,Card,TRUE,TRUE,November,Online
+ORD384,Papa John's,11-11-2024 19:15,11-11-2024 19:45,30,Large,Non-Veg,Medium,Wallet,TRUE,FALSE,November,Online
+ORD385,Pizza Hut,12-11-2024 20:30,12-11-2024 21:10,40,XL,Cheese Burst,High,Hut Points,TRUE,FALSE,November,Offline
+ORD386,Little Caesars,13-11-2024 18:45,13-11-2024 19:05,20,Small,Vegan,Low,Cash,TRUE,FALSE,November,Offline
+ORD387,Marco's Pizza,14-11-2024 19:00,14-11-2024 19:50,50,Large,Non-Veg,High,Card,TRUE,FALSE,November,Online
+ORD388,Domino's,15-11-2024 18:00,15-11-2024 18:20,20,Medium,Veg,Low,Domino's Cash,TRUE,FALSE,November,Offline
+ORD389,Domino's,16-11-2024 20:00,16-11-2024 20:20,20,Medium,Veg,Low,Card,TRUE,TRUE,November,Online
+ORD390,Papa John's,17-11-2024 19:15,17-11-2024 19:45,30,Large,Non-Veg,Medium,UPI,TRUE,TRUE,November,Online
+ORD391,Pizza Hut,18-11-2024 20:30,18-11-2024 21:10,40,XL,Cheese Burst,High,Hut Points,TRUE,FALSE,November,Offline
+ORD392,Little Caesars,19-11-2024 18:45,19-11-2024 19:05,20,Small,Vegan,Low,Cash,TRUE,FALSE,November,Offline
+ORD393,Marco's Pizza,20-11-2024 19:00,20-11-2024 19:50,50,Large,Non-Veg,High,Card,TRUE,FALSE,November,Online
+ORD394,Domino's,21-11-2024 20:00,21-11-2024 20:35,35,Medium,Gluten-Free,Medium,Wallet,TRUE,FALSE,November,Online
+ORD395,Papa John's,22-11-2024 18:30,22-11-2024 18:50,20,Small,Vegan,Low,UPI,TRUE,FALSE,November,Online
+ORD396,Pizza Hut,23-11-2024 19:45,23-11-2024 20:25,40,XL,Stuffed Crust,High,Hut Points,TRUE,TRUE,November,Offline
+ORD397,Little Caesars,24-11-2024 18:00,24-11-2024 18:30,30,Medium,Non-Veg,Medium,Card,TRUE,TRUE,November,Online
+ORD398,Marco's Pizza,25-11-2024 20:15,25-11-2024 21:00,45,Large,Veg,High,Wallet,TRUE,FALSE,November,Online
+ORD399,Domino's,26-11-2024 18:00,26-11-2024 18:20,20,Medium,Veg,Low,Card,TRUE,FALSE,November,Online
+ORD400,Papa John's,27-11-2024 19:15,27-11-2024 19:45,30,Large,Non-Veg,Medium,Cash,TRUE,FALSE,November,Offline
+ORD401,Pizza Hut,28-11-2024 20:30,28-11-2024 21:10,40,XL,Cheese Burst,High,Hut Points,TRUE,FALSE,November,Offline
+ORD402,Little Caesars,29-11-2024 18:45,29-11-2024 19:05,20,Small,Vegan,Low,Wallet,TRUE,FALSE,November,Online
+ORD403,Marco's Pizza,30-11-2024 19:00,30-11-2024 19:50,50,Large,Non-Veg,High,Card,TRUE,TRUE,November,Online
+ORD404,Domino's,01-12-2024 20:00,01-12-2024 20:35,35,Medium,Veg,Medium,Wallet,TRUE,TRUE,December,Online
+ORD405,Papa John's,02-12-2024 18:30,02-12-2024 18:50,20,Small,Vegan,Low,UPI,TRUE,FALSE,December,Online
+ORD406,Pizza Hut,03-12-2024 19:45,03-12-2024 20:25,40,XL,Stuffed Crust,High,Hut Points,TRUE,FALSE,December,Offline
+ORD407,Little Caesars,04-12-2024 18:00,04-12-2024 18:30,30,Medium,Non-Veg,Medium,UPI,TRUE,FALSE,December,Online
+ORD408,Marco's Pizza,05-12-2024 20:15,05-12-2024 21:00,45,Large,Veg,High,Cash,TRUE,FALSE,December,Offline
+ORD409,Domino's,06-12-2024 18:00,06-12-2024 18:20,20,Medium,Veg,Low,Card,TRUE,FALSE,December,Online
+ORD410,Papa John's,07-12-2024 19:15,07-12-2024 19:45,30,Large,Non-Veg,Medium,Wallet,TRUE,TRUE,December,Online
+ORD411,Pizza Hut,08-12-2024 20:30,08-12-2024 21:10,40,XL,Cheese Burst,High,Hut Points,TRUE,TRUE,December,Offline
+ORD412,Little Caesars,09-12-2024 18:45,09-12-2024 19:05,20,Small,Vegan,Low,Cash,TRUE,FALSE,December,Offline
+ORD413,Marco's Pizza,10-12-2024 19:00,10-12-2024 19:50,50,Large,Non-Veg,High,Card,TRUE,FALSE,December,Online
+ORD414,Domino's,11-12-2024 18:00,11-12-2024 18:20,20,Medium,Veg,Low,Domino's Cash,TRUE,FALSE,December,Offline
+ORD415,Domino's,12-12-2024 20:00,12-12-2024 20:20,20,Medium,Thin Crust,Low,Card,TRUE,FALSE,December,Online
+ORD416,Papa John's,13-12-2024 19:15,13-12-2024 19:45,30,Large,Deep Dish,Medium,UPI,TRUE,FALSE,December,Online
+ORD417,Pizza Hut,14-12-2024 20:30,14-12-2024 21:10,40,XL,Cheese Burst,High,Hut Points,TRUE,TRUE,December,Offline
+ORD418,Little Caesars,15-12-2024 18:45,15-12-2024 19:05,20,Small,Vegan,Low,Cash,TRUE,TRUE,December,Offline
+ORD419,Marco's Pizza,16-12-2024 19:00,16-12-2024 19:50,50,Large,Non-Veg,High,Card,TRUE,FALSE,December,Online
+ORD420,Domino's,17-12-2024 20:00,17-12-2024 20:35,35,Medium,Gluten-Free,Medium,Wallet,TRUE,FALSE,December,Online
+ORD421,Papa John's,18-12-2024 18:30,18-12-2024 18:50,20,Small,Vegan,Low,UPI,TRUE,FALSE,December,Online
+ORD422,Pizza Hut,19-12-2024 19:45,19-12-2024 20:25,40,XL,Stuffed Crust,High,Card,TRUE,FALSE,December,Online
+ORD423,Little Caesars,20-12-2024 18:00,20-12-2024 18:30,30,Medium,Non-Veg,Medium,Card,TRUE,FALSE,December,Online
+ORD424,Marco's Pizza,21-12-2024 20:15,21-12-2024 21:00,45,Large,Veg,High,Wallet,TRUE,TRUE,December,Online
+ORD425,Domino's,12-12-2024 20:00,12-12-2024 20:20,20,Medium,Thin Crust,Low,Card,TRUE,FALSE,December,Online
+ORD426,Papa John's,13-12-2024 19:15,13-12-2024 19:45,30,Large,Deep Dish,Medium,UPI,TRUE,FALSE,December,Online
+ORD427,Pizza Hut,14-12-2024 20:30,14-12-2024 21:10,40,XL,Cheese Burst,High,Hut Points,TRUE,TRUE,December,Offline
+ORD428,Little Caesars,15-12-2024 18:45,15-12-2024 19:05,20,Small,Vegan,Low,Cash,TRUE,TRUE,December,Offline
+ORD429,Marco's Pizza,16-12-2024 19:00,16-12-2024 19:50,50,Large,Non-Veg,High,Card,TRUE,FALSE,December,Online
+ORD430,Domino's,17-12-2024 20:00,17-12-2024 20:35,35,Medium,Gluten-Free,Medium,Wallet,TRUE,FALSE,December,Online
+ORD431,Papa John's,18-12-2024 18:30,18-12-2024 18:50,20,Small,Vegan,Low,UPI,TRUE,FALSE,December,Online
+ORD432,Pizza Hut,19-12-2024 19:45,19-12-2024 20:25,40,XL,Stuffed Crust,High,Card,TRUE,FALSE,December,Online
+ORD433,Little Caesars,20-12-2024 18:00,20-12-2024 18:30,30,Medium,Non-Veg,Medium,Card,TRUE,FALSE,December,Online
+ORD434,Marco's Pizza,21-12-2024 20:15,21-12-2024 21:00,45,Large,Veg,High,Wallet,TRUE,TRUE,December,Online
+ORD435,Domino's,22-12-2024 18:00,22-12-2024 18:20,20,Medium,Veg,Low,Card,TRUE,TRUE,December,Online
+ORD436,Papa John's,23-12-2024 19:15,23-12-2024 19:45,30,Large,Non-Veg,Medium,Cash,TRUE,FALSE,December,Offline
+ORD437,Pizza Hut,24-12-2024 20:30,24-12-2024 21:10,40,XL,Cheese Burst,High,Card,TRUE,FALSE,December,Online
+ORD438,Little Caesars,25-12-2024 18:45,25-12-2024 19:05,20,Small,Vegan,Low,Wallet,TRUE,FALSE,December,Online
+ORD439,Marco's Pizza,26-12-2024 19:00,26-12-2024 19:50,50,Large,Non-Veg,High,Card,TRUE,FALSE,December,Online
+ORD440,Domino's,27-12-2024 20:00,27-12-2024 20:35,35,Medium,Veg,Medium,Wallet,TRUE,FALSE,December,Online
+ORD441,Papa John's,28-12-2024 18:30,28-12-2024 18:50,20,Small,Vegan,Low,UPI,TRUE,TRUE,December,Online
+ORD442,Pizza Hut,29-12-2024 19:45,29-12-2024 20:25,40,XL,Stuffed Crust,High,Card,TRUE,TRUE,December,Online
+ORD443,Little Caesars,30-12-2024 18:00,30-12-2024 18:30,30,Medium,Non-Veg,Medium,UPI,TRUE,FALSE,December,Online
+ORD444,Marco's Pizza,31-12-2024 20:15,31-12-2024 21:00,45,Large,Veg,High,Cash,TRUE,FALSE,December,Offline
+ORD445,Domino's,01-01-2025 18:00,01-01-2025 18:20,20,Medium,Veg,Low,Card,TRUE,FALSE,January,Online
+ORD446,Papa John's,02-01-2025 19:15,02-01-2025 19:45,30,Large,Non-Veg,Medium,Wallet,TRUE,FALSE,January,Online
+ORD447,Pizza Hut,03-01-2025 20:30,03-01-2025 21:10,40,XL,Cheese Burst,High,Card,TRUE,FALSE,January,Online
+ORD448,Little Caesars,04-01-2025 18:45,04-01-2025 19:05,20,Small,Vegan,Low,Cash,TRUE,TRUE,January,Offline
+ORD449,Marco's Pizza,05-01-2025 19:00,05-01-2025 19:50,50,Large,Non-Veg,High,Card,TRUE,TRUE,January,Online
+ORD450,Domino's,06-01-2025 18:00,06-01-2025 18:20,20,Medium,Veg,Low,Domino's Cash,TRUE,FALSE,January,Offline
+ORD451,Papa John's,07-01-2025 19:15,07-01-2025 19:45,30,Large,Deep Dish,Medium,UPI,TRUE,FALSE,January,Online
+ORD452,Pizza Hut,08-01-2025 20:30,08-01-2025 21:10,40,XL,Cheese Burst,High,Card,TRUE,FALSE,January,Online
+ORD453,Little Caesars,09-01-2025 18:00,09-01-2025 18:30,30,Medium,Thai Chicken,Medium,Card,TRUE,FALSE,January,Online
+ORD454,Marco's Pizza,10-01-2025 19:15,10-01-2025 19:50,35,Large,Sicilian,High,UPI,TRUE,FALSE,January,Online
+ORD455,Domino's,11-01-2025 20:30,11-01-2025 21:10,40,XL,Cheese Burst,High,Wallet,TRUE,TRUE,January,Online
+ORD456,Papa John's,12-01-2025 18:45,12-01-2025 19:05,20,Small,Vegan,Low,Cash,TRUE,TRUE,January,Offline
+ORD457,Pizza Hut,13-01-2025 19:00,13-01-2025 19:50,50,Large,Non-Veg,High,Card,TRUE,FALSE,January,Online
+ORD458,Domino's,14-01-2025 20:00,14-01-2025 20:35,35,Medium,Gluten-Free,Medium,Domino's Cash,TRUE,FALSE,January,Offline
+ORD459,Papa John's,15-01-2025 18:30,15-01-2025 18:50,20,Small,Vegan,Low,UPI,TRUE,FALSE,January,Online
+ORD460,Pizza Hut,16-01-2025 19:45,16-01-2025 20:25,40,XL,Stuffed Crust,High,Card,TRUE,FALSE,January,Online
+ORD461,Domino's,17-01-2025 18:00,17-01-2025 18:20,20,Medium,Veg,Low,Card,TRUE,FALSE,January,Online
+ORD462,Papa John's,18-01-2025 19:15,18-01-2025 19:45,30,Large,Deep Dish,Medium,UPI,TRUE,TRUE,January,Online
+ORD463,Little Caesars,19-01-2025 20:30,19-01-2025 21:10,40,XL,Cheese Burst,High,Wallet,TRUE,TRUE,January,Online
+ORD464,Marco's Pizza,20-01-2025 18:45,20-01-2025 19:05,20,Small,Vegan,Low,Cash,TRUE,FALSE,January,Offline
+ORD465,Domino's,21-01-2025 19:00,21-01-2025 19:50,50,Large,Non-Veg,High,Card,TRUE,FALSE,January,Online
+ORD466,Papa John's,22-01-2025 20:00,22-01-2025 20:35,35,Medium,Gluten-Free,Medium,Wallet,TRUE,FALSE,January,Online
+ORD467,Pizza Hut,23-01-2025 18:30,23-01-2025 18:50,20,Small,Vegan,Low,UPI,TRUE,FALSE,January,Online
+ORD468,Little Caesars,24-01-2025 19:45,24-01-2025 20:25,40,XL,Stuffed Crust,High,Card,TRUE,FALSE,January,Online
+ORD469,Marco's Pizza,25-01-2025 18:00,25-01-2025 18:30,30,Medium,Non-Veg,Medium,UPI,TRUE,TRUE,January,Online
+ORD470,Domino's,26-01-2025 20:15,26-01-2025 21:00,45,Large,Veg,High,Cash,TRUE,TRUE,January,Offline
+ORD471,Papa John's,27-01-2025 18:00,27-01-2025 18:20,20,Medium,Veg,Low,Card,TRUE,FALSE,January,Online
+ORD472,Pizza Hut,28-01-2025 19:15,28-01-2025 19:45,30,Large,Non-Veg,Medium,Wallet,TRUE,FALSE,January,Online
+ORD473,Little Caesars,29-01-2025 20:30,29-01-2025 21:10,40,XL,Cheese Burst,High,Card,TRUE,FALSE,January,Online
+ORD474,Marco's Pizza,30-01-2025 18:45,30-01-2025 19:05,20,Small,Vegan,Low,Cash,TRUE,FALSE,January,Offline
+ORD475,Domino's,31-01-2025 19:00,31-01-2025 19:50,50,Large,Non-Veg,High,Card,TRUE,FALSE,January,Online
+ORD476,Papa John's,01-02-2025 20:00,01-02-2025 20:35,35,Medium,Gluten-Free,Medium,Wallet,TRUE,TRUE,February,Online
+ORD477,Pizza Hut,02-02-2025 18:30,02-02-2025 18:50,20,Small,Vegan,Low,UPI,TRUE,TRUE,February,Online
+ORD478,Little Caesars,03-02-2025 19:45,03-02-2025 20:25,40,XL,Stuffed Crust,High,Card,TRUE,FALSE,February,Online
+ORD479,Marco's Pizza,04-02-2025 18:00,04-02-2025 18:30,30,Medium,Non-Veg,Medium,UPI,TRUE,FALSE,February,Online
+ORD480,Domino's,05-02-2025 20:15,05-02-2025 21:00,45,Large,Veg,High,Cash,TRUE,FALSE,February,Offline
+ORD481,Papa John's,06-02-2025 18:00,06-02-2025 18:20,20,Medium,Veg,Low,Card,TRUE,FALSE,February,Online
+ORD482,Pizza Hut,07-02-2025 19:15,07-02-2025 19:45,30,Large,Non-Veg,Medium,Wallet,TRUE,FALSE,February,Online
+ORD483,Little Caesars,08-02-2025 20:30,08-02-2025 21:10,40,XL,Cheese Burst,High,Card,TRUE,TRUE,February,Online
+ORD484,Marco's Pizza,09-02-2025 18:45,09-02-2025 19:05,20,Small,Vegan,Low,Cash,TRUE,TRUE,February,Offline
+ORD485,Domino's,10-02-2025 19:00,10-02-2025 19:50,50,Large,Non-Veg,High,Card,TRUE,FALSE,February,Online
+ORD486,Papa John's,11-02-2025 20:00,11-02-2025 20:35,35,Medium,Gluten-Free,Medium,Wallet,TRUE,FALSE,February,Online
+ORD487,Pizza Hut,12-02-2025 18:30,12-02-2025 18:50,20,Small,Vegan,Low,Wallet,TRUE,FALSE,February,Online
+ORD488,Little Caesars,13-02-2025 19:45,13-02-2025 20:25,40,XL,Cheese Burst,High,Card,TRUE,FALSE,February,Online
+ORD489,Marco's Pizza,14-02-2025 18:00,14-02-2025 18:20,20,Medium,Veg,Low,Card,TRUE,FALSE,February,Online
+ORD490,Domino's,15-02-2025 19:15,15-02-2025 19:45,30,Large,Deep Dish,Medium,UPI,TRUE,TRUE,February,Online
+ORD491,Papa John's,16-02-2025 20:30,16-02-2025 21:10,40,XL,Cheese Burst,High,Wallet,TRUE,TRUE,February,Online
+ORD492,Pizza Hut,17-02-2025 18:45,17-02-2025 19:05,20,Small,Vegan,Low,Cash,TRUE,FALSE,February,Offline
+ORD493,Domino's,18-02-2025 19:00,18-02-2025 19:50,50,Large,Non-Veg,High,Card,TRUE,FALSE,February,Online
+ORD494,Papa John's,19-02-2025 20:00,19-02-2025 20:35,35,Medium,Gluten-Free,Medium,Wallet,TRUE,FALSE,February,Online
+ORD495,Pizza Hut,20-02-2025 18:30,20-02-2025 18:50,20,Small,Vegan,Low,UPI,TRUE,FALSE,February,Online
+ORD496,Little Caesars,21-02-2025 19:45,21-02-2025 20:25,40,XL,Stuffed Crust,High,Card,TRUE,FALSE,February,Online
+ORD497,Marco's Pizza,22-02-2025 18:00,22-02-2025 18:30,30,Medium,Non-Veg,Medium,UPI,TRUE,TRUE,February,Online
+ORD498,Domino's,23-02-2025 20:15,23-02-2025 21:00,45,Large,Veg,High,Cash,TRUE,TRUE,February,Offline
+ORD499,Papa John's,24-02-2025 18:00,24-02-2025 18:20,20,Medium,Veg,Low,Card,TRUE,FALSE,February,Online
+ORD500,Pizza Hut,25-02-2025 19:15,25-02-2025 19:45,30,Large,Non-Veg,Medium,Wallet,TRUE,FALSE,February,Online
+ORD501,Little Caesars,26-02-2025 20:30,26-02-2025 21:10,40,XL,Cheese Burst,High,Card,TRUE,FALSE,February,Online
+ORD502,Marco's Pizza,27-02-2025 18:45,27-02-2025 19:05,20,Small,Vegan,Low,Cash,TRUE,FALSE,February,Offline
+ORD503,Domino's,28-02-2025 19:00,28-02-2025 19:50,50,Large,Non-Veg,High,Domino's Cash,TRUE,FALSE,February,Offline
+ORD504,Papa John's,01-03-2025 20:00,01-03-2025 20:35,35,Medium,Gluten-Free,Medium,Wallet,TRUE,TRUE,March,Online
+ORD505,Pizza Hut,02-03-2025 18:30,02-03-2025 18:50,20,Small,Vegan,Low,UPI,TRUE,TRUE,March,Online
+ORD506,Little Caesars,03-03-2025 19:45,03-03-2025 20:25,40,XL,Stuffed Crust,High,Card,TRUE,FALSE,March,Online
+ORD507,Marco's Pizza,04-03-2025 18:00,04-03-2025 18:30,30,Medium,Non-Veg,Medium,UPI,TRUE,FALSE,March,Online
+ORD508,Domino's,05-03-2025 20:15,05-03-2025 21:00,45,Large,Veg,High,Cash,TRUE,FALSE,March,Offline
+ORD509,Papa John's,06-03-2025 18:00,06-03-2025 18:20,20,Medium,Veg,Low,Card,TRUE,FALSE,March,Online
+ORD510,Pizza Hut,07-03-2025 19:15,07-03-2025 19:45,30,Large,Non-Veg,Medium,Wallet,TRUE,FALSE,March,Online
+ORD511,Little Caesars,08-03-2025 20:30,08-03-2025 21:10,40,XL,Cheese Burst,High,Card,TRUE,TRUE,March,Online
+ORD512,Marco's Pizza,09-03-2025 18:45,09-03-2025 19:05,20,Small,Vegan,Low,Cash,TRUE,TRUE,March,Offline
+ORD513,Domino's,10-03-2025 19:00,10-03-2025 19:50,50,Large,Non-Veg,High,Card,TRUE,FALSE,March,Online
+ORD514,Papa John's,11-03-2025 20:00,11-03-2025 20:35,35,Medium,Gluten-Free,Medium,Wallet,TRUE,FALSE,March,Online
+ORD515,Pizza Hut,12-03-2025 18:30,12-03-2025 18:50,20,Small,Vegan,Low,UPI,TRUE,FALSE,March,Online
+ORD516,Little Caesars,13-03-2025 19:45,13-03-2025 20:25,40,XL,Cheese Burst,High,Card,TRUE,FALSE,March,Online
+ORD517,Marco's Pizza,14-03-2025 18:00,14-03-2025 18:20,20,Medium,Veg,Low,Card,TRUE,FALSE,March,Online
+ORD518,Domino's,15-03-2025 19:15,15-03-2025 19:45,30,Large,Deep Dish,Medium,UPI,TRUE,TRUE,March,Online
+ORD519,Papa John's,16-03-2025 20:30,16-03-2025 21:10,40,XL,Cheese Burst,High,Wallet,TRUE,TRUE,March,Online
+ORD520,Pizza Hut,17-03-2025 18:45,17-03-2025 19:05,20,Small,Vegan,Low,Cash,TRUE,FALSE,March,Offline
+ORD521,Domino's,18-03-2025 19:00,18-03-2025 19:50,50,Large,Non-Veg,High,Card,TRUE,FALSE,March,Online
+ORD522,Papa John's,19-03-2025 20:00,19-03-2025 20:35,35,Medium,Gluten-Free,Medium,Wallet,TRUE,FALSE,March,Online
+ORD523,Pizza Hut,20-03-2025 18:30,20-03-2025 18:50,20,Small,Vegan,Low,UPI,TRUE,FALSE,March,Online
+ORD524,Little Caesars,21-03-2025 19:45,21-03-2025 20:25,40,XL,Stuffed Crust,High,Card,TRUE,FALSE,March,Online
+ORD525,Marco's Pizza,22-03-2025 18:00,22-03-2025 18:30,30,Medium,Non-Veg,Medium,UPI,TRUE,TRUE,March,Online
+ORD526,Domino's,23-03-2025 20:15,23-03-2025 21:00,45,Large,Veg,High,Cash,TRUE,TRUE,March,Offline
+ORD527,Papa John's,24-03-2025 18:00,24-03-2025 18:20,20,Medium,Veg,Low,Card,TRUE,FALSE,March,Online
+ORD528,Pizza Hut,25-03-2025 19:15,25-03-2025 19:45,30,Large,Non-Veg,Medium,Wallet,TRUE,FALSE,March,Online
+ORD529,Little Caesars,26-03-2025 20:30,26-03-2025 21:10,40,XL,Cheese Burst,High,Card,TRUE,FALSE,March,Online
+ORD530,Marco's Pizza,27-03-2025 18:45,27-03-2025 19:05,20,Small,Vegan,Low,Cash,TRUE,FALSE,March,Offline
+ORD531,Domino's,28-03-2025 19:00,28-03-2025 19:50,50,Large,Non-Veg,High,Domino's Cash,TRUE,FALSE,March,Offline
+ORD532,Papa John's,29-03-2025 20:00,29-03-2025 20:35,35,Medium,Gluten-Free,Medium,Wallet,TRUE,TRUE,March,Online
+ORD533,Pizza Hut,30-03-2025 18:30,30-03-2025 18:50,20,Small,Vegan,Low,UPI,TRUE,TRUE,March,Online
+ORD534,Little Caesars,31-03-2025 19:45,31-03-2025 20:25,40,XL,Stuffed Crust,High,Card,TRUE,FALSE,March,Online
+ORD535,Marco's Pizza,01-04-2025 18:00,01-04-2025 18:30,30,Medium,Non-Veg,Medium,UPI,TRUE,FALSE,April,Online
+ORD536,Domino's,02-04-2025 20:15,02-04-2025 21:00,45,Large,Veg,High,Cash,TRUE,FALSE,April,Offline
+ORD537,Papa John's,03-04-2025 18:00,03-04-2025 18:20,20,Medium,Veg,Low,Card,TRUE,FALSE,April,Online
+ORD538,Pizza Hut,04-04-2025 19:15,04-04-2025 19:45,30,Large,Non-Veg,Medium,Wallet,TRUE,FALSE,April,Online
+ORD539,Little Caesars,05-04-2025 20:30,05-04-2025 21:10,40,XL,Cheese Burst,High,Card,TRUE,TRUE,April,Online
+ORD540,Marco's Pizza,06-04-2025 18:45,06-04-2025 19:05,20,Small,Vegan,Low,Cash,TRUE,TRUE,April,Offline
+ORD541,Domino's,07-04-2025 19:00,07-04-2025 19:50,50,Large,Non-Veg,High,Card,TRUE,FALSE,April,Online
+ORD542,Papa John's,08-04-2025 20:00,08-04-2025 20:35,35,Medium,Gluten-Free,Medium,Wallet,TRUE,FALSE,April,Online
+ORD543,Pizza Hut,09-04-2025 18:30,09-04-2025 18:50,20,Small,Vegan,Low,UPI,TRUE,FALSE,April,Online
+ORD544,Domino's,10-04-2025 19:00,10-04-2025 19:45,45,Large,Thai Chicken,Medium,Card,TRUE,FALSE,April,Online
+ORD545,Papa John's,11-04-2025 20:15,11-04-2025 20:55,40,Medium,Sicilian,High,Wallet,TRUE,FALSE,April,Online
+ORD546,Pizza Hut,12-04-2025 18:45,12-04-2025 19:05,20,Small,Vegan,Low,Cash,TRUE,TRUE,April,Offline
+ORD547,Little Caesars,13-04-2025 19:30,13-04-2025 20:10,40,XL,Cheese Burst,High,Card,TRUE,TRUE,April,Online
+ORD548,Marco's Pizza,14-04-2025 18:00,14-04-2025 18:30,30,Medium,Non-Veg,Medium,UPI,TRUE,FALSE,April,Online
+ORD549,Domino's,15-04-2025 20:15,15-04-2025 21:00,45,Large,Veg,High,Cash,TRUE,FALSE,April,Offline
+ORD550,Papa John's,16-04-2025 18:00,16-04-2025 18:20,20,Medium,Veg,Low,Card,TRUE,FALSE,April,Online
+ORD551,Pizza Hut,17-04-2025 19:15,17-04-2025 19:45,30,Large,Non-Veg,Medium,Wallet,TRUE,FALSE,April,Online
+ORD552,Little Caesars,18-04-2025 20:30,18-04-2025 21:10,40,XL,Cheese Burst,High,Card,TRUE,FALSE,April,Online
+ORD553,Marco's Pizza,19-04-2025 18:45,19-04-2025 19:05,20,Small,Vegan,Low,Cash,TRUE,TRUE,April,Offline
+ORD554,Domino's,20-04-2025 19:00,20-04-2025 19:50,50,Large,Non-Veg,High,Domino's Cash,TRUE,TRUE,April,Offline
+ORD555,Papa John's,21-04-2025 20:00,21-04-2025 20:35,35,Medium,Gluten-Free,Medium,Wallet,TRUE,FALSE,April,Online
+ORD556,Pizza Hut,22-04-2025 18:30,22-04-2025 18:50,20,Small,Vegan,Low,UPI,TRUE,FALSE,April,Online
+ORD557,Little Caesars,23-04-2025 19:45,23-04-2025 20:25,40,XL,Stuffed Crust,High,Card,TRUE,FALSE,April,Online
+ORD558,Marco's Pizza,24-04-2025 18:00,24-04-2025 18:30,30,Medium,Non-Veg,Medium,UPI,TRUE,FALSE,April,Online
+ORD559,Domino's,25-04-2025 20:15,25-04-2025 21:00,45,Large,Veg,High,Cash,TRUE,FALSE,April,Offline
+ORD560,Papa John's,26-04-2025 18:00,26-04-2025 18:20,20,Medium,Veg,Low,Card,TRUE,TRUE,April,Online
+ORD561,Pizza Hut,27-04-2025 19:15,27-04-2025 19:45,30,Large,Non-Veg,Medium,Wallet,TRUE,TRUE,April,Online
+ORD562,Little Caesars,28-04-2025 20:30,28-04-2025 21:10,40,XL,Cheese Burst,High,Card,TRUE,FALSE,April,Online
+ORD563,Marco's Pizza,29-04-2025 18:45,29-04-2025 19:05,20,Small,Vegan,Low,Cash,TRUE,FALSE,April,Offline
+ORD564,Domino's,30-04-2025 19:00,30-04-2025 19:50,50,Large,Non-Veg,High,Card,TRUE,FALSE,April,Online
+ORD565,Papa John's,01-05-2025 20:00,01-05-2025 20:35,35,Medium,Gluten-Free,Medium,Wallet,TRUE,FALSE,May,Online
+ORD566,Pizza Hut,02-05-2025 18:30,02-05-2025 18:50,20,Small,Vegan,Low,UPI,TRUE,FALSE,May,Online
+ORD567,Little Caesars,03-05-2025 19:45,03-05-2025 20:25,40,XL,Stuffed Crust,High,Card,TRUE,TRUE,May,Online
+ORD568,Marco's Pizza,04-05-2025 18:00,04-05-2025 18:30,30,Medium,Non-Veg,Medium,UPI,TRUE,TRUE,May,Online
+ORD569,Domino's,05-05-2025 20:15,05-05-2025 21:00,45,Large,Veg,High,Cash,TRUE,FALSE,May,Offline
+ORD570,Papa John's,01-05-2025 20:00,01-05-2025 20:35,35,Medium,Gluten-Free,Medium,Wallet,TRUE,FALSE,May,Online
+ORD571,Domino's,07-05-2025 19:00,07-05-2025 19:45,45,Large,Thai Chicken,Medium,Card,TRUE,FALSE,May,Online
+ORD572,Papa John's,08-05-2025 20:15,08-05-2025 20:55,40,Medium,Sicilian,High,Wallet,TRUE,FALSE,May,Online
+ORD573,Pizza Hut,09-05-2025 18:45,09-05-2025 19:05,20,Small,Vegan,Low,Cash,TRUE,FALSE,May,Offline
+ORD574,Little Caesars,10-05-2025 19:30,10-05-2025 20:10,40,XL,Cheese Burst,High,Card,TRUE,TRUE,May,Online
+ORD575,Marco's Pizza,11-05-2025 18:00,11-05-2025 18:30,30,Medium,Non-Veg,Medium,UPI,TRUE,TRUE,May,Online
+ORD576,Domino's,12-05-2025 20:15,12-05-2025 21:00,45,Large,Veg,High,Cash,TRUE,FALSE,May,Offline
+ORD577,Papa John's,13-05-2025 18:00,13-05-2025 18:20,20,Medium,Veg,Low,Card,TRUE,FALSE,May,Online
+ORD578,Pizza Hut,14-05-2025 19:15,14-05-2025 19:45,30,Large,Non-Veg,Medium,Wallet,TRUE,FALSE,May,Online
+ORD579,Little Caesars,15-05-2025 20:30,15-05-2025 21:10,40,XL,Cheese Burst,High,Card,TRUE,FALSE,May,Online
+ORD580,Marco's Pizza,16-05-2025 18:45,16-05-2025 19:05,20,Small,Vegan,Low,Cash,TRUE,FALSE,May,Offline
+ORD581,Domino's,17-05-2025 19:00,17-05-2025 19:50,50,Large,Non-Veg,High,Domino's Cash,TRUE,TRUE,May,Offline
+ORD582,Papa John's,18-05-2025 20:00,18-05-2025 20:35,35,Medium,Gluten-Free,Medium,Wallet,TRUE,TRUE,May,Online
+ORD583,Pizza Hut,19-05-2025 18:30,19-05-2025 18:50,20,Small,Vegan,Low,UPI,TRUE,FALSE,May,Online
+ORD584,Little Caesars,20-05-2025 19:45,20-05-2025 20:25,40,XL,Stuffed Crust,High,Card,TRUE,FALSE,May,Online
+ORD585,Marco's Pizza,21-05-2025 18:00,21-05-2025 18:30,30,Medium,Non-Veg,Medium,UPI,TRUE,FALSE,May,Online
+ORD586,Domino's,22-05-2025 20:15,22-05-2025 21:00,45,Large,Veg,High,Cash,TRUE,FALSE,May,Offline
+ORD587,Papa John's,23-05-2025 18:00,23-05-2025 18:20,20,Medium,Veg,Low,Card,TRUE,FALSE,May,Online
+ORD588,Pizza Hut,24-05-2025 19:15,24-05-2025 19:45,30,Large,Non-Veg,Medium,Wallet,TRUE,TRUE,May,Online
+ORD589,Little Caesars,25-05-2025 20:30,25-05-2025 21:10,40,XL,Cheese Burst,High,Card,TRUE,TRUE,May,Online
+ORD590,Marco's Pizza,26-05-2025 18:45,26-05-2025 19:05,20,Small,Vegan,Low,Cash,TRUE,FALSE,May,Offline
+ORD591,Domino's,27-05-2025 19:00,27-05-2025 19:50,50,Large,Non-Veg,High,Card,TRUE,FALSE,May,Online
+ORD592,Papa John's,28-05-2025 20:00,28-05-2025 20:35,35,Medium,Gluten-Free,Medium,Wallet,TRUE,FALSE,May,Online
+ORD593,Pizza Hut,29-05-2025 18:30,29-05-2025 18:50,20,Small,Vegan,Low,UPI,TRUE,FALSE,May,Online
+ORD594,Little Caesars,30-05-2025 19:45,30-05-2025 20:25,40,XL,Stuffed Crust,High,Card,TRUE,FALSE,May,Online
+ORD595,Marco's Pizza,31-05-2025 18:00,31-05-2025 18:30,30,Medium,Non-Veg,Medium,UPI,TRUE,TRUE,May,Online
+ORD596,Domino's,01-06-2025 20:15,01-06-2025 21:00,45,Large,Veg,High,Cash,TRUE,TRUE,June,Offline
+ORD597,Papa John's,02-06-2025 18:00,02-06-2025 18:20,20,Medium,Veg,Low,Card,TRUE,FALSE,June,Online
+ORD598,Pizza Hut,03-06-2025 19:15,03-06-2025 19:45,30,Large,Non-Veg,Medium,Wallet,TRUE,FALSE,June,Online
+ORD599,Little Caesars,04-06-2025 20:30,04-06-2025 21:10,40,XL,Cheese Burst,High,Card,TRUE,FALSE,June,Online
+ORD600,Marco's Pizza,05-06-2025 18:45,05-06-2025 19:05,20,Small,Vegan,Low,Cash,TRUE,FALSE,June,Offline
+ORD601,Domino's,06-06-2025 19:00,06-06-2025 19:45,45,Large,Thai Chicken,Medium,Card,TRUE,FALSE,June,Online
+ORD602,Papa John's,07-06-2025 20:15,07-06-2025 20:55,40,Medium,Sicilian,High,Wallet,TRUE,TRUE,June,Online
+ORD603,Pizza Hut,08-06-2025 18:45,08-06-2025 19:05,20,Small,Vegan,Low,Cash,TRUE,TRUE,June,Offline
+ORD604,Little Caesars,09-06-2025 19:30,09-06-2025 20:10,40,XL,Cheese Burst,High,Card,TRUE,FALSE,June,Online
+ORD605,Marco's Pizza,10-06-2025 18:00,10-06-2025 18:30,30,Medium,Non-Veg,Medium,UPI,TRUE,FALSE,June,Online
+ORD606,Domino's,11-06-2025 20:15,11-06-2025 21:00,45,Large,Veg,High,Cash,TRUE,FALSE,June,Offline
+ORD607,Papa John's,12-06-2025 18:00,12-06-2025 18:20,20,Medium,Veg,Low,Card,TRUE,FALSE,June,Online
+ORD608,Pizza Hut,13-06-2025 19:15,13-06-2025 19:45,30,Large,Non-Veg,Medium,Wallet,TRUE,FALSE,June,Online
+ORD609,Little Caesars,14-06-2025 20:30,14-06-2025 21:10,40,XL,Cheese Burst,High,Card,TRUE,TRUE,June,Online
+ORD610,Marco's Pizza,15-06-2025 18:45,15-06-2025 19:05,20,Small,Vegan,Low,Cash,TRUE,TRUE,June,Offline
+ORD611,Domino's,16-06-2025 19:00,16-06-2025 19:50,50,Large,Non-Veg,High,Domino's Cash,TRUE,FALSE,June,Offline
+ORD612,Papa John's,17-06-2025 20:00,17-06-2025 20:35,35,Medium,Gluten-Free,Medium,Wallet,TRUE,FALSE,June,Online
+ORD613,Pizza Hut,18-06-2025 18:30,18-06-2025 18:50,20,Small,Vegan,Low,UPI,TRUE,FALSE,June,Online
+ORD614,Little Caesars,19-06-2025 19:45,19-06-2025 20:25,40,XL,Stuffed Crust,High,Card,TRUE,FALSE,June,Online
+ORD615,Marco's Pizza,20-06-2025 18:00,20-06-2025 18:30,30,Medium,Non-Veg,Medium,UPI,TRUE,FALSE,June,Online
+ORD616,Domino's,21-06-2025 20:15,21-06-2025 21:00,45,Large,Veg,High,Cash,TRUE,TRUE,June,Offline
+ORD617,Papa John's,22-06-2025 18:00,22-06-2025 18:20,20,Medium,Veg,Low,Card,TRUE,TRUE,June,Online
+ORD618,Pizza Hut,23-06-2025 19:15,23-06-2025 19:45,30,Large,Non-Veg,Medium,Wallet,TRUE,FALSE,June,Online
+ORD619,Little Caesars,24-06-2025 20:30,24-06-2025 21:10,40,XL,Cheese Burst,High,Card,TRUE,FALSE,June,Online
+ORD620,Marco's Pizza,25-06-2025 18:45,25-06-2025 19:05,20,Small,Vegan,Low,Cash,TRUE,FALSE,June,Offline
+ORD621,Domino's,26-06-2025 19:00,26-06-2025 19:50,50,Large,Non-Veg,High,Card,TRUE,FALSE,June,Online
+ORD622,Papa John's,27-06-2025 20:00,27-06-2025 20:35,35,Medium,Gluten-Free,Medium,Wallet,TRUE,FALSE,June,Online
+ORD623,Pizza Hut,28-06-2025 18:30,28-06-2025 18:50,20,Small,Vegan,Low,UPI,TRUE,TRUE,June,Online
+ORD624,Little Caesars,29-06-2025 19:45,29-06-2025 20:25,40,XL,Stuffed Crust,High,Card,TRUE,TRUE,June,Online
+ORD625,Domino's,15-06-2025 19:20,15-06-2025 19:55,35,Large,Cheese Burst,Medium,Card,TRUE,TRUE,June,Online
+ORD626,Pizza Hut,15-06-2025 20:00,15-06-2025 20:30,30,Medium,Veg,Low,Wallet,TRUE,TRUE,June,Online
+ORD627,Little Caesars,15-06-2025 20:05,15-06-2025 20:55,50,XL,Non-Veg,High,Cash,TRUE,TRUE,June,Offline
+ORD628,Domino's,15-06-2025 21:00,15-06-2025 21:35,35,Large,Cheese Burst,Medium,Card,TRUE,TRUE,June,Online
+ORD629,Papa John's,16-06-2025 17:45,16-06-2025 18:10,25,Medium,Gluten-Free,Low,UPI,FALSE,FALSE,June,Online
+ORD630,Pizza Hut,16-06-2025 18:30,16-06-2025 19:10,40,Large,Stuffed Crust,Medium,Wallet,TRUE,FALSE,June,Online
+ORD631,Domino's,16-06-2025 19:00,16-06-2025 19:35,35,Medium,Veg,Medium,Hut Points,TRUE,FALSE,June,Offline
+ORD632,Pizza Hut,16-06-2025 20:15,16-06-2025 21:00,45,Large,Cheese Burst,High,Card,TRUE,FALSE,June,Online
+ORD633,Domino's,16-06-2025 21:10,16-06-2025 21:40,30,Large,Cheese Burst,Medium,Cash,TRUE,FALSE,June,Offline
+ORD634,Little Caesars,17-06-2025 18:10,17-06-2025 18:50,40,XL,Sicilian,High,UPI,TRUE,FALSE,June,Online
+ORD635,Marco's Pizza,17-06-2025 19:15,17-06-2025 19:40,25,Small,Thai Chicken,Medium,Card,TRUE,FALSE,June,Online
+ORD636,Pizza Hut,17-06-2025 20:00,17-06-2025 20:30,30,Medium,Veg,Low,Wallet,TRUE,FALSE,June,Online
+ORD637,Papa John's,18-06-2025 17:45,18-06-2025 18:35,50,Large,Non-Veg,High,Card,FALSE,FALSE,June,Online
+ORD638,Domino's,18-06-2025 19:05,18-06-2025 19:40,35,Large,Cheese Burst,Medium,UPI,TRUE,FALSE,June,Online
+ORD639,Marco's Pizza,18-06-2025 20:00,18-06-2025 20:25,25,Medium,Non-Veg,Low,Wallet,TRUE,FALSE,June,Online
+ORD640,Pizza Hut,18-06-2025 21:00,18-06-2025 21:30,30,Medium,Veg,Low,Card,TRUE,FALSE,June,Online
+ORD641,Domino's,19-06-2025 18:15,19-06-2025 18:55,40,Large,Cheese Burst,Medium,Cash,TRUE,FALSE,June,Offline
+ORD642,Little Caesars,19-06-2025 19:10,19-06-2025 19:55,45,XL,Vegan,High,Wallet,TRUE,FALSE,June,Online
+ORD643,Domino's,19-06-2025 20:00,19-06-2025 20:30,30,Large,Cheese Burst,Medium,Card,TRUE,FALSE,June,Online
+ORD644,Marco's Pizza,20-06-2025 18:10,20-06-2025 18:40,30,Small,Thai Chicken,Medium,Cash,TRUE,FALSE,June,Offline
+ORD645,Pizza Hut,20-06-2025 19:00,20-06-2025 19:30,30,Medium,Stuffed Crust,Medium,Card,TRUE,FALSE,June,Online
+ORD646,Domino's,21-07-2025 19:00,21-07-2025 19:50,50,Large,Non-Veg,High,Card,TRUE,FALSE,July,Online
+ORD647,Papa John's,22-07-2025 20:00,22-07-2025 20:35,35,Medium,Gluten-Free,Medium,Wallet,TRUE,FALSE,July,Online
+ORD648,Pizza Hut,23-07-2025 18:30,23-07-2025 18:50,20,Small,Vegan,Low,UPI,TRUE,FALSE,July,Online
+ORD649,Little Caesars,24-07-2025 19:45,24-07-2025 20:25,40,XL,Cheese Burst,High,Card,TRUE,FALSE,July,Online
+ORD650,Marco's Pizza,25-07-2025 18:15,25-07-2025 18:45,30,Medium,Thai Chicken,Medium,UPI,TRUE,FALSE,July,Online
+ORD651,Domino's,26-07-2025 19:30,26-07-2025 20:10,40,Large,Sicilian,High,Cash,TRUE,TRUE,July,Offline
+ORD652,Papa John's,27-07-2025 20:45,27-07-2025 21:15,30,Medium,Veg,Low,Card,TRUE,TRUE,July,Online
+ORD653,Pizza Hut,28-07-2025 18:00,28-07-2025 18:30,30,Large,Non-Veg,Medium,Wallet,TRUE,FALSE,July,Online
+ORD654,Little Caesars,29-07-2025 19:15,29-07-2025 19:55,40,XL,Cheese Burst,High,Card,TRUE,FALSE,July,Online
+ORD655,Marco's Pizza,30-07-2025 20:30,30-07-2025 21:00,30,Medium,Vegan,Medium,UPI,TRUE,FALSE,July,Online
+ORD656,Domino's,31-07-2025 18:45,31-07-2025 19:25,40,Large,Non-Veg,High,Domino's Cash,TRUE,FALSE,July,Offline
+ORD657,Papa John's,01-08-2025 20:00,01-08-2025 20:30,30,Medium,Gluten-Free,Medium,Wallet,TRUE,FALSE,August,Online
+ORD658,Pizza Hut,02-08-2025 18:30,02-08-2025 19:00,30,Small,Vegan,Low,UPI,TRUE,TRUE,August,Online
+ORD659,Little Caesars,03-08-2025 19:45,03-08-2025 20:25,40,XL,Stuffed Crust,High,Card,TRUE,TRUE,August,Online
+ORD660,Marco's Pizza,04-08-2025 18:00,04-08-2025 18:30,30,Medium,Non-Veg,Medium,UPI,TRUE,FALSE,August,Online
+ORD661,Domino's,05-08-2025 19:15,05-08-2025 19:55,40,Large,Veg,High,Cash,TRUE,FALSE,August,Offline
+ORD662,Papa John's,06-08-2025 20:30,06-08-2025 21:00,30,Medium,Veg,Low,Card,TRUE,FALSE,August,Online
+ORD663,Pizza Hut,07-08-2025 18:45,07-08-2025 19:15,30,Large,Non-Veg,Medium,Wallet,TRUE,FALSE,August,Online
+ORD664,Little Caesars,08-08-2025 20:00,08-08-2025 20:40,40,XL,Cheese Burst,High,Card,TRUE,FALSE,August,Online
+ORD665,Marco's Pizza,09-08-2025 18:15,09-08-2025 18:45,30,Small,Vegan,Low,Cash,TRUE,TRUE,August,Offline
+ORD666,Domino's,10-08-2025 19:30,10-08-2025 20:10,40,Large,Non-Veg,High,Card,TRUE,TRUE,August,Online
+ORD667,Papa John's,11-08-2025 20:45,11-08-2025 21:15,30,Medium,Gluten-Free,Medium,Wallet,TRUE,FALSE,August,Online
+ORD668,Pizza Hut,12-08-2025 18:00,12-08-2025 18:30,30,Small,Vegan,Low,UPI,TRUE,FALSE,August,Online
+ORD669,Little Caesars,13-08-2025 19:15,13-08-2025 19:55,40,XL,Cheese Burst,High,Card,TRUE,FALSE,August,Online
+ORD670,Marco's Pizza,14-08-2025 20:30,14-08-2025 21:00,30,Medium,Non-Veg,Medium,UPI,TRUE,FALSE,August,Online
+ORD671,Domino's,15-08-2025 19:00,15-08-2025 19:35,35,Large,Cheese Burst,Medium,Card,TRUE,FALSE,August,Online
+ORD672,Pizza Hut,16-08-2025 18:30,16-08-2025 19:10,40,Medium,Veg,High,Wallet,TRUE,TRUE,August,Online
+ORD673,Papa John's,17-08-2025 20:00,17-08-2025 20:25,25,Medium,Gluten-Free,Low,UPI,TRUE,TRUE,August,Online
+ORD674,Little Caesars,18-08-2025 19:15,18-08-2025 19:55,40,XL,Non-Veg,High,Cash,TRUE,FALSE,August,Offline
+ORD675,Marco's Pizza,19-08-2025 18:45,19-08-2025 19:15,30,Medium,Thai Chicken,Medium,Card,TRUE,FALSE,August,Online
+ORD676,Domino's,20-08-2025 20:30,20-08-2025 21:00,30,Large,Sicilian,Medium,UPI,TRUE,FALSE,August,Online
+ORD677,Pizza Hut,21-08-2025 19:00,21-08-2025 19:30,30,Medium,Veg,Low,Wallet,TRUE,FALSE,August,Online
+ORD678,Papa John's,22-08-2025 18:15,22-08-2025 18:50,35,Medium,Gluten-Free,Medium,Card,TRUE,FALSE,August,Online
+ORD679,Little Caesars,23-08-2025 20:00,23-08-2025 20:45,45,XL,Cheese Burst,High,Cash,TRUE,TRUE,August,Offline
+ORD680,Marco's Pizza,24-08-2025 19:30,24-08-2025 20:00,30,Medium,Thai Chicken,Medium,UPI,TRUE,TRUE,August,Online
+ORD681,Domino's,25-08-2025 18:00,25-08-2025 18:35,35,Large,Non-Veg,Medium,Card,TRUE,FALSE,August,Online
+ORD682,Pizza Hut,26-08-2025 19:15,26-08-2025 19:45,30,Medium,Veg,Low,Wallet,TRUE,FALSE,August,Online
+ORD683,Papa John's,27-08-2025 20:30,27-08-2025 21:00,30,Medium,Gluten-Free,Medium,UPI,TRUE,FALSE,August,Online
+ORD684,Little Caesars,28-08-2025 18:45,28-08-2025 19:25,40,XL,Cheese Burst,High,Card,TRUE,FALSE,August,Online
+ORD685,Marco's Pizza,29-08-2025 19:00,29-08-2025 19:30,30,Medium,Thai Chicken,Medium,Cash,TRUE,FALSE,August,Offline
+ORD686,Domino's,30-08-2025 20:15,30-08-2025 20:45,30,Large,Sicilian,Medium,UPI,TRUE,TRUE,August,Online
+ORD687,Pizza Hut,31-08-2025 18:30,31-08-2025 19:00,30,Medium,Veg,Low,Wallet,TRUE,TRUE,August,Online
+ORD688,Papa John's,01-09-2025 19:45,01-09-2025 20:15,30,Medium,Gluten-Free,Medium,Card,TRUE,FALSE,September,Online
+ORD689,Little Caesars,02-09-2025 20:00,02-09-2025 20:40,40,XL,Cheese Burst,High,UPI,TRUE,FALSE,September,Online
+ORD690,Marco's Pizza,03-09-2025 18:15,03-09-2025 18:45,30,Medium,Thai Chicken,Medium,Card,TRUE,FALSE,September,Online
+ORD691,Domino's,04-09-2025 19:30,04-09-2025 20:00,30,Large,Non-Veg,Medium,Cash,TRUE,FALSE,September,Offline
+ORD692,Pizza Hut,05-09-2025 20:45,05-09-2025 21:15,30,Medium,Veg,Low,Wallet,TRUE,FALSE,September,Online
+ORD693,Papa John's,06-09-2025 18:00,06-09-2025 18:30,30,Medium,Gluten-Free,Medium,UPI,TRUE,TRUE,September,Online
+ORD694,Little Caesars,07-09-2025 19:15,07-09-2025 19:55,40,XL,Cheese Burst,High,Card,TRUE,TRUE,September,Online
+ORD695,Marco's Pizza,08-09-2025 20:30,08-09-2025 21:00,30,Medium,Thai Chicken,Medium,Cash,TRUE,FALSE,September,Offline
+ORD696,Domino's,09-09-2025 18:45,09-09-2025 19:15,30,Large,Sicilian,Medium,UPI,TRUE,FALSE,September,Online
+ORD697,Pizza Hut,10-09-2025 19:00,10-09-2025 19:30,30,Medium,Veg,Low,Wallet,TRUE,FALSE,September,Online
+ORD698,Papa John's,11-09-2025 20:15,11-09-2025 20:45,30,Medium,Gluten-Free,Medium,UPI,TRUE,FALSE,September,Online
+ORD699,Little Caesars,12-09-2025 19:30,12-09-2025 20:00,30,XL,Cheese Burst,High,Card,TRUE,FALSE,September,Online
+ORD700,Marco's Pizza,13-09-2025 18:45,13-09-2025 19:15,30,Medium,Thai Chicken,Medium,Cash,TRUE,TRUE,September,Offline
+ORD701,Domino's,14-09-2025 20:00,14-09-2025 20:30,30,Large,Sicilian,Medium,UPI,TRUE,TRUE,September,Online
+ORD702,Pizza Hut,15-09-2025 19:15,15-09-2025 19:45,30,Medium,Veg,Low,Wallet,TRUE,FALSE,September,Online
+ORD703,Papa John's,16-09-2025 20:30,16-09-2025 21:00,30,Medium,Gluten-Free,Medium,Card,TRUE,FALSE,September,Online
+ORD704,Little Caesars,17-09-2025 19:45,17-09-2025 20:15,30,XL,Cheese Burst,High,UPI,TRUE,FALSE,September,Online
+ORD705,Marco's Pizza,18-09-2025 18:00,18-09-2025 18:30,30,Medium,Thai Chicken,Medium,Cash,TRUE,FALSE,September,Offline
+ORD706,Domino's,19-09-2025 20:15,19-09-2025 20:45,30,Large,Sicilian,Medium,UPI,TRUE,FALSE,September,Online
+ORD707,Pizza Hut,20-09-2025 19:30,20-09-2025 20:00,30,Medium,Veg,Low,Wallet,TRUE,TRUE,September,Online
+ORD708,Papa John's,21-09-2025 20:45,21-09-2025 21:15,30,Medium,Gluten-Free,Medium,Card,TRUE,TRUE,September,Online
+ORD709,Little Caesars,22-09-2025 19:00,22-09-2025 19:30,30,XL,Cheese Burst,High,UPI,TRUE,FALSE,September,Online
+ORD710,Marco's Pizza,23-09-2025 18:15,23-09-2025 18:45,30,Medium,Thai Chicken,Medium,Cash,TRUE,FALSE,September,Offline
+ORD711,Domino's,24-09-2025 19:30,24-09-2025 20:00,30,Large,Sicilian,Medium,UPI,TRUE,FALSE,September,Online
+ORD712,Pizza Hut,25-09-2025 20:45,25-09-2025 21:15,30,Medium,Veg,Low,Wallet,TRUE,FALSE,September,Online
+ORD713,Papa John's,26-09-2025 18:00,26-09-2025 18:30,30,Medium,Gluten-Free,Medium,Card,TRUE,FALSE,September,Online
+ORD714,Little Caesars,27-09-2025 19:15,27-09-2025 19:45,30,XL,Cheese Burst,High,UPI,TRUE,TRUE,September,Online
+ORD715,Marco's Pizza,28-09-2025 20:30,28-09-2025 21:00,30,Medium,Thai Chicken,Medium,Cash,TRUE,TRUE,September,Offline
+ORD716,Domino's,29-09-2025 19:00,29-09-2025 19:30,30,Large,Sicilian,Medium,UPI,TRUE,FALSE,September,Online
+ORD717,Pizza Hut,30-09-2025 20:15,30-09-2025 20:45,30,Medium,Veg,Low,Wallet,TRUE,FALSE,September,Online
+ORD718,Papa John's,01-10-2025 18:30,01-10-2025 19:00,30,Medium,Gluten-Free,Medium,Card,TRUE,FALSE,October,Online
+ORD719,Little Caesars,02-10-2025 19:45,02-10-2025 20:15,30,XL,Cheese Burst,High,UPI,TRUE,FALSE,October,Online
+ORD720,Marco's Pizza,03-10-2025 18:00,03-10-2025 18:30,30,Medium,Thai Chicken,Medium,Cash,TRUE,FALSE,October,Offline
+ORD721,Domino's,04-10-2025 19:15,04-10-2025 19:45,30,Large,Sicilian,Medium,UPI,TRUE,TRUE,October,Online
+ORD722,Pizza Hut,05-10-2025 20:30,05-10-2025 21:00,30,Medium,Veg,Low,Wallet,TRUE,TRUE,October,Online
+ORD723,Papa John's,06-10-2025 18:45,06-10-2025 19:15,30,Medium,Gluten-Free,Medium,Card,TRUE,FALSE,October,Online
+ORD724,Little Caesars,07-10-2025 19:00,07-10-2025 19:30,30,XL,Cheese Burst,High,UPI,TRUE,FALSE,October,Online
+ORD725,Marco's Pizza,08-10-2025 20:15,08-10-2025 20:45,30,Medium,Thai Chicken,Medium,UPI,TRUE,FALSE,October,Online
+ORD726,Papa John's,09-10-2025 20:30,09-10-2025 21:00,30,Medium,Gluten-Free,Medium,UPI,TRUE,FALSE,October,Online
+ORD727,Little Caesars,10-10-2025 19:45,10-10-2025 20:15,30,XL,Cheese Burst,High,Card,TRUE,FALSE,October,Online
+ORD728,Marco's Pizza,11-10-2025 18:00,11-10-2025 18:30,30,Medium,Thai Chicken,Medium,Cash,TRUE,TRUE,October,Offline
+ORD729,Domino's,12-10-2025 19:15,12-10-2025 19:45,30,Large,Sicilian,Medium,UPI,TRUE,TRUE,October,Online
+ORD730,Pizza Hut,13-10-2025 20:30,13-10-2025 21:00,30,Medium,Veg,Low,Wallet,TRUE,FALSE,October,Online
+ORD731,Papa John's,14-10-2025 18:45,14-10-2025 19:15,30,Medium,Gluten-Free,Medium,Card,TRUE,FALSE,October,Online
+ORD732,Little Caesars,15-10-2025 19:00,15-10-2025 19:30,30,XL,Cheese Burst,High,UPI,TRUE,FALSE,October,Online
+ORD733,Marco's Pizza,16-10-2025 20:15,16-10-2025 20:45,30,Medium,Thai Chicken,Medium,Cash,TRUE,FALSE,October,Offline
+ORD734,Domino's,17-10-2025 19:30,17-10-2025 20:00,30,Large,Sicilian,Medium,UPI,TRUE,FALSE,October,Online
+ORD735,Pizza Hut,18-10-2025 20:45,18-10-2025 21:15,30,Medium,Veg,Low,Wallet,TRUE,TRUE,October,Online
+ORD736,Papa John's,19-10-2025 18:00,19-10-2025 18:30,30,Medium,Gluten-Free,Medium,Card,TRUE,TRUE,October,Online
+ORD737,Little Caesars,20-10-2025 19:15,20-10-2025 19:45,30,XL,Cheese Burst,High,UPI,TRUE,FALSE,October,Online
+ORD738,Marco's Pizza,21-10-2025 20:30,21-10-2025 21:00,30,Medium,Thai Chicken,Medium,Cash,TRUE,FALSE,October,Offline
+ORD739,Domino's,22-10-2025 19:00,22-10-2025 19:30,30,Large,Sicilian,Medium,UPI,TRUE,FALSE,October,Online
+ORD740,Pizza Hut,23-10-2025 20:15,23-10-2025 20:45,30,Medium,Veg,Low,Wallet,TRUE,FALSE,October,Online
+ORD741,Papa John's,24-10-2025 18:30,24-10-2025 19:00,30,Medium,Gluten-Free,Medium,Card,TRUE,FALSE,October,Online
+ORD742,Little Caesars,25-10-2025 19:45,25-10-2025 20:15,30,XL,Cheese Burst,High,UPI,TRUE,TRUE,October,Online
+ORD743,Marco's Pizza,26-10-2025 18:00,26-10-2025 18:30,30,Medium,Thai Chicken,Medium,Cash,TRUE,TRUE,October,Offline
+ORD744,Domino's,27-10-2025 19:15,27-10-2025 19:45,30,Large,Sicilian,Medium,UPI,TRUE,FALSE,October,Online
+ORD745,Pizza Hut,28-10-2025 20:30,28-10-2025 21:00,30,Medium,Veg,Low,Wallet,TRUE,FALSE,October,Online
+ORD746,Papa John's,29-10-2025 18:45,29-10-2025 19:15,30,Medium,Gluten-Free,Medium,Card,TRUE,FALSE,October,Online
+ORD747,Little Caesars,30-10-2025 19:00,30-10-2025 19:30,30,XL,Cheese Burst,High,UPI,TRUE,FALSE,October,Online
+ORD748,Marco's Pizza,31-10-2025 20:15,31-10-2025 20:45,30,Medium,Thai Chicken,Medium,Cash,TRUE,FALSE,October,Offline
+ORD749,Domino's,01-11-2025 19:30,01-11-2025 20:00,30,Large,Sicilian,Medium,UPI,TRUE,TRUE,November,Online
+ORD750,Pizza Hut,02-11-2025 20:45,02-11-2025 21:15,30,Medium,Veg,Low,Wallet,TRUE,TRUE,November,Online
+ORD751,Papa John's,03-11-2025 18:00,03-11-2025 18:30,30,Medium,Gluten-Free,Medium,Card,TRUE,FALSE,November,Online
+ORD752,Little Caesars,04-11-2025 19:15,04-11-2025 19:45,30,XL,Cheese Burst,High,UPI,TRUE,FALSE,November,Online
+ORD753,Marco's Pizza,05-11-2025 20:30,05-11-2025 21:00,30,Medium,Thai Chicken,Medium,UPI,TRUE,FALSE,November,Online
+ORD754,Papa John's,06-11-2025 18:45,06-11-2025 19:15,30,Medium,BBQ Chicken,Medium,UPI,TRUE,FALSE,November,Online
+ORD755,Little Caesars,07-11-2025 19:00,07-11-2025 19:30,30,XL,Cheese Burst,High,Card,TRUE,FALSE,November,Online
+ORD756,Marco's Pizza,08-11-2025 20:15,08-11-2025 20:45,30,Medium,Margarita,Medium,Cash,TRUE,TRUE,November,Offline
+ORD757,Domino's,09-11-2025 19:30,09-11-2025 20:00,30,Large,Sicilian,Medium,UPI,TRUE,TRUE,November,Online
+ORD758,Pizza Hut,10-11-2025 20:45,10-11-2025 21:15,30,Medium,Veg,Low,Wallet,TRUE,FALSE,November,Online
+ORD759,Papa John's,11-11-2025 18:00,11-11-2025 18:30,30,Medium,BBQ Chicken,Medium,Card,TRUE,FALSE,November,Online
+ORD760,Little Caesars,12-11-2025 19:15,12-11-2025 19:45,30,XL,Cheese Burst,High,UPI,TRUE,FALSE,November,Online
+ORD761,Marco's Pizza,13-11-2025 20:30,13-11-2025 21:00,30,Medium,Margarita,Medium,Cash,TRUE,FALSE,November,Offline
+ORD762,Domino's,14-11-2025 19:00,14-11-2025 19:30,30,Large,Sicilian,Medium,UPI,TRUE,FALSE,November,Online
+ORD763,Pizza Hut,15-11-2025 20:15,15-11-2025 20:45,30,Medium,Veg,Low,Wallet,TRUE,TRUE,November,Online
+ORD764,Papa John's,16-11-2025 18:30,16-11-2025 19:00,30,Medium,BBQ Chicken,Medium,Card,TRUE,TRUE,November,Online
+ORD765,Little Caesars,17-11-2025 19:45,17-11-2025 20:15,30,XL,Cheese Burst,High,UPI,TRUE,FALSE,November,Online
+ORD766,Marco's Pizza,18-11-2025 20:00,18-11-2025 20:30,30,Medium,Margarita,Medium,Cash,TRUE,FALSE,November,Offline
+ORD767,Domino's,19-11-2025 19:15,19-11-2025 19:45,30,Large,Sicilian,Medium,UPI,TRUE,FALSE,November,Online
+ORD768,Pizza Hut,20-11-2025 20:30,20-11-2025 21:00,30,Medium,Veg,Low,Wallet,TRUE,FALSE,November,Online
+ORD769,Papa John's,21-11-2025 18:45,21-11-2025 19:15,30,Medium,BBQ Chicken,Medium,Card,TRUE,FALSE,November,Online
+ORD770,Little Caesars,22-11-2025 19:00,22-11-2025 19:30,30,XL,Cheese Burst,High,UPI,TRUE,TRUE,November,Online
+ORD771,Marco's Pizza,23-11-2025 20:15,23-11-2025 20:45,30,Medium,Margarita,Medium,Cash,TRUE,TRUE,November,Offline
+ORD772,Domino's,24-11-2025 19:30,24-11-2025 20:00,30,Large,Sicilian,Medium,UPI,TRUE,FALSE,November,Online
+ORD773,Pizza Hut,25-11-2025 20:45,25-11-2025 21:15,30,Medium,Veg,Low,Wallet,TRUE,FALSE,November,Online
+ORD774,Papa John's,26-11-2025 18:00,26-11-2025 18:30,30,Medium,BBQ Chicken,Medium,Card,TRUE,FALSE,November,Online
+ORD775,Little Caesars,27-11-2025 19:15,27-11-2025 19:45,30,XL,Cheese Burst,High,UPI,TRUE,FALSE,November,Online
+ORD776,Marco's Pizza,28-11-2025 20:30,28-11-2025 21:00,30,Medium,Margarita,Medium,Cash,TRUE,FALSE,November,Offline
+ORD777,Domino's,29-11-2025 19:00,29-11-2025 19:30,30,Large,Sicilian,Medium,UPI,TRUE,TRUE,November,Online
+ORD778,Pizza Hut,30-11-2025 20:15,30-11-2025 20:45,30,Medium,Veg,Low,Wallet,TRUE,TRUE,November,Online
+ORD779,Papa John's,01-12-2025 18:30,01-12-2025 19:00,30,Medium,BBQ Chicken,Medium,Card,TRUE,FALSE,December,Online
+ORD780,Little Caesars,02-12-2025 19:45,02-12-2025 20:15,30,XL,Cheese Burst,High,UPI,TRUE,FALSE,December,Online
+ORD781,Marco's Pizza,03-12-2025 20:00,03-12-2025 20:30,30,Medium,Margarita,Medium,Cash,TRUE,FALSE,December,Offline
+ORD782,Papa John's,04-12-2025 18:15,04-12-2025 18:45,30,Medium,BBQ Chicken,Medium,UPI,TRUE,FALSE,December,Online
+ORD783,Little Caesars,05-12-2025 19:30,05-12-2025 20:00,30,XL,Cheese Burst,High,Card,TRUE,FALSE,December,Online
+ORD784,Marco's Pizza,06-12-2025 20:45,06-12-2025 21:15,30,Medium,Margarita,Medium,Cash,TRUE,TRUE,December,Offline
+ORD785,Domino's,07-12-2025 19:00,07-12-2025 19:30,30,Large,Sicilian,Medium,UPI,TRUE,TRUE,December,Online
+ORD786,Pizza Hut,08-12-2025 20:15,08-12-2025 20:45,30,Medium,Veg,Low,Wallet,TRUE,FALSE,December,Online
+ORD787,Papa John's,09-12-2025 18:30,09-12-2025 19:00,30,Medium,BBQ Chicken,Medium,Card,TRUE,FALSE,December,Online
+ORD788,Little Caesars,10-12-2025 19:45,10-12-2025 20:15,30,XL,Cheese Burst,High,UPI,TRUE,FALSE,December,Online
+ORD789,Marco's Pizza,11-12-2025 20:00,11-12-2025 20:30,30,Medium,Margarita,Medium,Cash,TRUE,FALSE,December,Offline
+ORD790,Domino's,12-12-2025 19:15,12-12-2025 19:45,30,Large,Sicilian,Medium,UPI,TRUE,FALSE,December,Online
+ORD791,Pizza Hut,13-12-2025 20:30,13-12-2025 21:00,30,Medium,Veg,Low,Wallet,TRUE,TRUE,December,Online
+ORD792,Papa John's,14-12-2025 18:45,14-12-2025 19:15,30,Medium,BBQ Chicken,Medium,Card,TRUE,TRUE,December,Online
+ORD793,Little Caesars,15-12-2025 19:00,15-12-2025 19:30,30,XL,Cheese Burst,High,UPI,TRUE,FALSE,December,Online
+ORD794,Marco's Pizza,16-12-2025 20:15,16-12-2025 20:45,30,Medium,Margarita,Medium,Cash,TRUE,FALSE,December,Offline
+ORD795,Domino's,17-12-2025 19:30,17-12-2025 20:00,30,Large,Sicilian,Medium,UPI,TRUE,FALSE,December,Online
+ORD796,Pizza Hut,18-12-2025 20:45,18-12-2025 21:15,30,Medium,Veg,Low,Wallet,TRUE,FALSE,December,Online
+ORD797,Papa John's,19-12-2025 18:00,19-12-2025 18:30,30,Medium,BBQ Chicken,Medium,Card,TRUE,FALSE,December,Online
+ORD798,Little Caesars,20-12-2025 19:15,20-12-2025 19:45,30,XL,Cheese Burst,High,UPI,TRUE,TRUE,December,Online
+ORD799,Marco's Pizza,21-12-2025 20:30,21-12-2025 21:00,30,Medium,Margarita,Medium,Cash,TRUE,TRUE,December,Offline
+ORD800,Domino's,22-12-2025 19:00,22-12-2025 19:30,30,Large,Sicilian,Medium,UPI,TRUE,FALSE,December,Online
+ORD801,Pizza Hut,23-12-2025 20:15,23-12-2025 20:45,30,Medium,Veg,Low,Wallet,TRUE,FALSE,December,Online
+ORD802,Papa John's,24-12-2025 18:30,24-12-2025 19:00,30,Medium,BBQ Chicken,Medium,Card,TRUE,FALSE,December,Online
+ORD803,Little Caesars,25-12-2025 19:45,25-12-2025 20:15,30,XL,Cheese Burst,High,UPI,TRUE,FALSE,December,Online
+ORD804,Marco's Pizza,26-12-2025 20:00,26-12-2025 20:30,30,Medium,Margarita,Medium,Cash,TRUE,FALSE,December,Offline
+ORD805,Domino's,27-12-2025 19:15,27-12-2025 19:45,30,Large,Sicilian,Medium,UPI,TRUE,TRUE,December,Online
+ORD806,Pizza Hut,28-12-2025 20:30,28-12-2025 21:00,30,Medium,Veg,Low,Wallet,TRUE,TRUE,December,Online
+ORD807,Papa John's,29-12-2025 18:45,29-12-2025 19:15,30,Medium,BBQ Chicken,Medium,Card,TRUE,FALSE,December,Online
+ORD808,Little Caesars,30-12-2025 19:00,30-12-2025 19:30,30,XL,Cheese Burst,High,UPI,TRUE,FALSE,December,Online
+ORD809,Marco's Pizza,31-12-2025 20:15,31-12-2025 20:45,30,Medium,Margarita,Medium,Cash,TRUE,FALSE,December,Offline
+ORD810,Papa John's,24-12-2025 18:30,24-12-2025 19:00,30,Medium,BBQ Chicken,Medium,UPI,TRUE,FALSE,December,Online
+ORD811,Little Caesars,25-12-2025 19:45,25-12-2025 20:15,30,XL,Cheese Burst,High,Card,TRUE,FALSE,December,Online
+ORD812,Marco's Pizza,26-12-2025 20:00,26-12-2025 20:30,30,Medium,Margarita,Medium,Cash,TRUE,FALSE,December,Offline
+ORD813,Domino's,27-12-2025 19:15,27-12-2025 19:45,30,Large,Sicilian,Medium,UPI,TRUE,TRUE,December,Online
+ORD814,Pizza Hut,28-12-2025 20:30,28-12-2025 21:00,30,Medium,Veg,Low,Wallet,TRUE,TRUE,December,Online
+ORD815,Papa John's,29-12-2025 18:45,29-12-2025 19:15,30,Medium,BBQ Chicken,Medium,Card,TRUE,FALSE,December,Online
+ORD816,Little Caesars,30-12-2025 19:00,30-12-2025 19:30,30,XL,Cheese Burst,High,UPI,TRUE,FALSE,December,Online
+ORD817,Marco's Pizza,31-12-2025 20:15,31-12-2025 20:45,30,Medium,Margarita,Medium,Cash,TRUE,FALSE,December,Offline
+ORD818,Domino's,01-01-2026 19:30,01-01-2026 20:00,30,Large,Sicilian,Medium,UPI,TRUE,FALSE,January,Online
+ORD819,Pizza Hut,02-01-2026 20:45,02-01-2026 21:15,30,Medium,Veg,Low,Wallet,TRUE,FALSE,January,Online
+ORD820,Papa John's,03-01-2026 18:00,03-01-2026 18:30,30,Medium,BBQ Chicken,Medium,Card,TRUE,TRUE,January,Online
+ORD821,Little Caesars,04-01-2026 19:15,04-01-2026 19:45,30,XL,Cheese Burst,High,UPI,TRUE,TRUE,January,Online
+ORD822,Marco's Pizza,05-01-2026 20:30,05-01-2026 21:00,30,Medium,Margarita,Medium,Cash,TRUE,FALSE,January,Offline
+ORD823,Domino's,06-01-2026 19:00,06-01-2026 19:30,30,Large,Sicilian,Medium,UPI,TRUE,FALSE,January,Online
+ORD824,Pizza Hut,07-01-2026 20:15,07-01-2026 20:45,30,Medium,Veg,Low,Wallet,TRUE,FALSE,January,Online
+ORD825,Papa John's,08-01-2026 18:30,08-01-2026 19:00,30,Medium,BBQ Chicken,Medium,Card,TRUE,FALSE,January,Online
+ORD826,Little Caesars,09-01-2026 19:45,09-01-2026 20:15,30,XL,Cheese Burst,High,UPI,TRUE,FALSE,January,Online
+ORD827,Marco's Pizza,10-01-2026 20:00,10-01-2026 20:30,30,Medium,Margarita,Medium,Cash,TRUE,TRUE,January,Offline
+ORD828,Domino's,11-01-2026 19:15,11-01-2026 19:45,30,Large,Sicilian,Medium,UPI,TRUE,TRUE,January,Online
+ORD829,Pizza Hut,12-01-2026 20:30,12-01-2026 21:00,30,Medium,Veg,Low,Wallet,TRUE,FALSE,January,Online
+ORD830,Papa John's,13-01-2026 18:45,13-01-2026 19:15,30,Medium,BBQ Chicken,Medium,Card,TRUE,FALSE,January,Online
+ORD831,Little Caesars,14-01-2026 19:00,14-01-2026 19:30,30,XL,Cheese Burst,High,UPI,TRUE,FALSE,January,Online
+ORD832,Marco's Pizza,15-01-2026 20:15,15-01-2026 20:45,30,Medium,Margarita,Medium,Cash,TRUE,FALSE,January,Offline
+ORD833,Domino's,16-01-2026 19:30,16-01-2026 20:00,30,Large,Sicilian,Medium,UPI,TRUE,FALSE,January,Online
+ORD834,Pizza Hut,17-01-2026 20:45,17-01-2026 21:15,30,Medium,Veg,Low,Wallet,TRUE,TRUE,January,Online
+ORD835,Papa John's,18-01-2026 18:00,18-01-2026 18:30,30,Medium,BBQ Chicken,Medium,Card,TRUE,TRUE,January,Online
+ORD836,Little Caesars,19-01-2026 19:15,19-01-2026 19:45,30,XL,Cheese Burst,High,UPI,TRUE,FALSE,January,Online
+ORD837,Marco's Pizza,20-01-2026 20:30,20-01-2026 21:00,30,Medium,Margarita,Medium,Cash,TRUE,FALSE,January,Offline
+ORD838,Papa John's,21-01-2026 18:00,21-01-2026 18:30,30,Medium,BBQ Chicken,Medium,UPI,TRUE,FALSE,January,Online
+ORD839,Little Caesars,22-01-2026 19:15,22-01-2026 19:45,30,XL,Cheese Burst,High,Card,TRUE,FALSE,January,Online
+ORD840,Marco's Pizza,23-01-2026 20:30,23-01-2026 21:00,30,Medium,Margarita,Medium,Cash,TRUE,FALSE,January,Offline
+ORD841,Domino's,24-01-2026 19:00,24-01-2026 19:30,30,Large,Sicilian,Medium,UPI,TRUE,TRUE,January,Online
+ORD842,Pizza Hut,25-01-2026 20:15,25-01-2026 20:45,30,Medium,Veg,Low,Wallet,TRUE,TRUE,January,Online
+ORD843,Papa John's,26-01-2026 18:30,26-01-2026 19:00,30,Medium,BBQ Chicken,Medium,Card,TRUE,FALSE,January,Online
+ORD844,Little Caesars,27-01-2026 19:45,27-01-2026 20:15,30,XL,Cheese Burst,High,UPI,TRUE,FALSE,January,Online
+ORD845,Marco's Pizza,28-01-2026 20:00,28-01-2026 20:30,30,Medium,Margarita,Medium,Cash,TRUE,FALSE,January,Offline
+ORD846,Domino's,29-01-2026 19:15,29-01-2026 19:45,30,Large,Sicilian,Medium,UPI,TRUE,FALSE,January,Online
+ORD847,Pizza Hut,30-01-2026 20:30,30-01-2026 21:00,30,Medium,Veg,Low,Wallet,TRUE,FALSE,January,Online
+ORD848,Papa John's,31-01-2026 18:45,31-01-2026 19:15,30,Medium,BBQ Chicken,Medium,Card,TRUE,TRUE,January,Online
+ORD849,Little Caesars,01-02-2026 19:00,01-02-2026 19:30,30,XL,Cheese Burst,High,UPI,TRUE,TRUE,February,Online
+ORD850,Marco's Pizza,02-02-2026 20:15,02-02-2026 20:45,30,Medium,Margarita,Medium,Cash,TRUE,FALSE,February,Offline
+ORD851,Domino's,03-02-2026 19:30,03-02-2026 20:00,30,Large,Sicilian,Medium,UPI,TRUE,FALSE,February,Online
+ORD852,Pizza Hut,04-02-2026 20:45,04-02-2026 21:15,30,Medium,Veg,Low,Wallet,TRUE,FALSE,February,Online
+ORD853,Papa John's,05-02-2026 18:00,05-02-2026 18:30,30,Medium,BBQ Chicken,Medium,Card,TRUE,FALSE,February,Online
+ORD854,Little Caesars,06-02-2026 19:15,06-02-2026 19:45,30,XL,Cheese Burst,High,UPI,TRUE,FALSE,February,Online
+ORD855,Marco's Pizza,07-02-2026 20:30,07-02-2026 21:00,30,Medium,Margarita,Medium,Cash,TRUE,TRUE,February,Offline
+ORD856,Domino's,08-02-2026 19:00,08-02-2026 19:30,30,Large,Sicilian,Medium,UPI,TRUE,TRUE,February,Online
+ORD857,Pizza Hut,09-02-2026 20:15,09-02-2026 20:45,30,Medium,Veg,Low,Wallet,TRUE,FALSE,February,Online
+ORD858,Papa John's,10-02-2026 18:30,10-02-2026 19:00,30,Medium,BBQ Chicken,Medium,Card,TRUE,FALSE,February,Online
+ORD859,Little Caesars,11-02-2026 19:45,11-02-2026 20:15,30,XL,Cheese Burst,High,UPI,TRUE,FALSE,February,Online
+ORD860,Marco's Pizza,12-02-2026 20:00,12-02-2026 20:30,30,Medium,Margarita,Medium,Cash,TRUE,FALSE,February,Offline
+ORD861,Domino's,13-02-2026 19:15,13-02-2026 19:45,30,Large,Sicilian,Medium,UPI,TRUE,FALSE,February,Online
+ORD862,Pizza Hut,14-02-2026 20:30,14-02-2026 21:00,30,Medium,Veg,Low,Wallet,TRUE,TRUE,February,Online
+ORD863,Papa John's,15-02-2026 18:45,15-02-2026 19:15,30,Medium,BBQ Chicken,Medium,Card,TRUE,TRUE,February,Online
+ORD864,Little Caesars,16-02-2026 19:00,16-02-2026 19:30,30,XL,Cheese Burst,High,UPI,TRUE,FALSE,February,Online
+ORD865,Marco's Pizza,17-02-2026 20:15,17-02-2026 20:45,30,Medium,Margarita,Medium,Cash,TRUE,FALSE,February,Offline
+ORD866,Papa John's,18-02-2026 18:30,18-02-2026 19:00,30,Medium,BBQ Chicken,Medium,UPI,TRUE,FALSE,February,Online
+ORD867,Little Caesars,19-02-2026 19:45,19-02-2026 20:15,30,XL,Cheese Burst,High,Card,TRUE,FALSE,February,Online
+ORD868,Marco's Pizza,20-02-2026 20:00,20-02-2026 20:30,30,Medium,Margarita,Medium,Cash,TRUE,FALSE,February,Offline
+ORD869,Domino's,21-02-2026 19:15,21-02-2026 19:45,30,Large,Sicilian,Medium,UPI,TRUE,TRUE,February,Online
+ORD870,Pizza Hut,22-02-2026 20:30,22-02-2026 21:00,30,Medium,Veg,Low,Wallet,TRUE,TRUE,February,Online
+ORD871,Papa John's,23-02-2026 18:00,23-02-2026 18:30,30,Medium,BBQ Chicken,Medium,Card,TRUE,FALSE,February,Online
+ORD872,Little Caesars,24-02-2026 19:15,24-02-2026 19:45,30,XL,Cheese Burst,High,UPI,TRUE,FALSE,February,Online
+ORD873,Marco's Pizza,25-02-2026 20:30,25-02-2026 21:00,30,Medium,Margarita,Medium,Cash,TRUE,FALSE,February,Offline
+ORD874,Domino's,26-02-2026 19:00,26-02-2026 19:30,30,Large,Sicilian,Medium,UPI,TRUE,FALSE,February,Online
+ORD875,Pizza Hut,27-02-2026 20:15,27-02-2026 20:45,30,Medium,Veg,Low,Wallet,TRUE,FALSE,February,Online
+ORD876,Papa John's,28-02-2026 18:30,28-02-2026 19:00,30,Medium,BBQ Chicken,Medium,Card,TRUE,TRUE,February,Online
+ORD877,Little Caesars,01-03-2026 19:45,01-03-2026 20:15,30,XL,Cheese Burst,High,UPI,TRUE,TRUE,March,Online
+ORD878,Marco's Pizza,02-03-2026 20:00,02-03-2026 20:30,30,Medium,Margarita,Medium,Cash,TRUE,FALSE,March,Offline
+ORD879,Domino's,03-03-2026 19:15,03-03-2026 19:45,30,Large,Sicilian,Medium,UPI,TRUE,FALSE,March,Online
+ORD880,Pizza Hut,04-03-2026 20:30,04-03-2026 21:00,30,Medium,Veg,Low,Wallet,TRUE,FALSE,March,Online
+ORD881,Papa John's,05-03-2026 18:00,05-03-2026 18:30,30,Medium,BBQ Chicken,Medium,Card,TRUE,FALSE,March,Online
+ORD882,Little Caesars,06-03-2026 19:15,06-03-2026 19:45,30,XL,Cheese Burst,High,UPI,TRUE,FALSE,March,Online
+ORD883,Marco's Pizza,07-03-2026 20:30,07-03-2026 21:00,30,Medium,Margarita,Medium,Cash,TRUE,TRUE,March,Offline
+ORD884,Domino's,08-03-2026 19:00,08-03-2026 19:30,30,Large,Sicilian,Medium,UPI,TRUE,TRUE,March,Online
+ORD885,Pizza Hut,09-03-2026 20:15,09-03-2026 20:45,30,Medium,Veg,Low,Wallet,TRUE,FALSE,March,Online
+ORD886,Papa John's,10-03-2026 18:30,10-03-2026 19:00,30,Medium,BBQ Chicken,Medium,Card,TRUE,FALSE,March,Online
+ORD887,Little Caesars,11-03-2026 19:45,11-03-2026 20:15,30,XL,Cheese Burst,High,UPI,TRUE,FALSE,March,Online
+ORD888,Marco's Pizza,12-03-2026 20:00,12-03-2026 20:30,30,Medium,Margarita,Medium,Cash,TRUE,FALSE,March,Offline
+ORD889,Domino's,13-03-2026 19:15,13-03-2026 19:45,30,Large,Sicilian,Medium,UPI,TRUE,FALSE,March,Online
+ORD890,Pizza Hut,14-03-2026 20:30,14-03-2026 21:00,30,Medium,Veg,Low,Wallet,TRUE,TRUE,March,Online
+ORD891,Papa John's,15-03-2026 18:00,15-03-2026 18:30,30,Medium,BBQ Chicken,Medium,Card,TRUE,TRUE,March,Online
+ORD892,Little Caesars,16-03-2026 19:15,16-03-2026 19:45,30,XL,Cheese Burst,High,UPI,TRUE,FALSE,March,Online
+ORD893,Marco's Pizza,17-03-2026 20:30,17-03-2026 21:00,30,Medium,Margarita,Medium,Cash,TRUE,FALSE,March,Offline
+ORD894,Papa John's,18-03-2026 18:00,18-03-2026 18:30,30,Medium,BBQ Chicken,Medium,UPI,TRUE,FALSE,March,Online
+ORD895,Little Caesars,19-03-2026 19:15,19-03-2026 19:45,30,XL,Cheese Burst,High,Card,TRUE,FALSE,March,Online
+ORD896,Marco's Pizza,20-03-2026 20:30,20-03-2026 21:00,30,Medium,Margarita,Medium,Cash,TRUE,FALSE,March,Offline
+ORD897,Domino's,21-03-2026 19:00,21-03-2026 19:30,30,Large,Sicilian,Medium,UPI,TRUE,TRUE,March,Online
+ORD898,Pizza Hut,22-03-2026 20:15,22-03-2026 20:45,30,Medium,Veg,Low,Wallet,TRUE,TRUE,March,Online
+ORD899,Papa John's,23-03-2026 18:30,23-03-2026 19:00,30,Medium,BBQ Chicken,Medium,Card,TRUE,FALSE,March,Online
+ORD900,Little Caesars,24-03-2026 19:45,24-03-2026 20:15,30,XL,Cheese Burst,High,UPI,TRUE,FALSE,March,Online
+ORD901,Marco's Pizza,25-03-2026 20:00,25-03-2026 20:30,30,Medium,Margarita,Medium,Cash,TRUE,FALSE,March,Offline
+ORD902,Domino's,26-03-2026 19:15,26-03-2026 19:45,30,Large,Sicilian,Medium,UPI,TRUE,FALSE,March,Online
+ORD903,Pizza Hut,27-03-2026 20:30,27-03-2026 21:00,30,Medium,Veg,Low,Wallet,TRUE,FALSE,March,Online
+ORD904,Papa John's,28-03-2026 18:00,28-03-2026 18:30,30,Medium,BBQ Chicken,Medium,Card,TRUE,TRUE,March,Online
+ORD905,Little Caesars,29-03-2026 19:15,29-03-2026 19:45,30,XL,Cheese Burst,High,UPI,TRUE,TRUE,March,Online
+ORD906,Marco's Pizza,30-03-2026 20:30,30-03-2026 21:00,30,Medium,Margarita,Medium,Cash,TRUE,FALSE,March,Offline
+ORD907,Domino's,31-03-2026 19:00,31-03-2026 19:30,30,Large,Sicilian,Medium,UPI,TRUE,FALSE,March,Online
+ORD908,Pizza Hut,01-04-2026 20:15,01-04-2026 20:45,30,Medium,Veg,Low,Wallet,TRUE,FALSE,April,Online
+ORD909,Papa John's,02-04-2026 18:30,02-04-2026 19:00,30,Medium,BBQ Chicken,Medium,Card,TRUE,FALSE,April,Online
+ORD910,Little Caesars,03-04-2026 19:45,03-04-2026 20:15,30,XL,Cheese Burst,High,UPI,TRUE,FALSE,April,Online
+ORD911,Marco's Pizza,04-04-2026 20:00,04-04-2026 20:30,30,Medium,Margarita,Medium,Cash,TRUE,TRUE,April,Offline
+ORD912,Domino's,05-04-2026 19:15,05-04-2026 19:45,30,Large,Sicilian,Medium,UPI,TRUE,TRUE,April,Online
+ORD913,Pizza Hut,06-04-2026 20:30,06-04-2026 21:00,30,Medium,Veg,Low,Wallet,TRUE,FALSE,April,Online
+ORD914,Papa John's,07-04-2026 18:00,07-04-2026 18:30,30,Medium,BBQ Chicken,Medium,Card,TRUE,FALSE,April,Online
+ORD915,Little Caesars,08-04-2026 19:15,08-04-2026 19:45,30,XL,Cheese Burst,High,UPI,TRUE,FALSE,April,Online
+ORD916,Marco's Pizza,09-04-2026 20:30,09-04-2026 21:00,30,Medium,Margarita,Medium,Cash,TRUE,FALSE,April,Offline
+ORD917,Domino's,10-04-2026 19:00,10-04-2026 19:30,30,Large,Sicilian,Medium,UPI,TRUE,FALSE,April,Online
+ORD918,Pizza Hut,11-04-2026 20:15,11-04-2026 20:45,30,Medium,Veg,Low,Wallet,TRUE,TRUE,April,Online
+ORD919,Papa John's,12-04-2026 18:30,12-04-2026 19:00,30,Medium,BBQ Chicken,Medium,Card,TRUE,TRUE,April,Online
+ORD920,Little Caesars,13-04-2026 19:45,13-04-2026 20:15,30,XL,Cheese Burst,High,UPI,TRUE,FALSE,April,Online
+ORD921,Marco's Pizza,14-04-2026 20:00,14-04-2026 20:30,30,Medium,Margarita,Medium,Cash,TRUE,FALSE,April,Offline
+ORD922,Papa John's,15-04-2026 18:00,15-04-2026 18:30,30,Medium,BBQ Chicken,Medium,UPI,TRUE,FALSE,April,Online
+ORD923,Little Caesars,16-04-2026 19:15,16-04-2026 19:45,30,XL,Cheese Burst,High,Card,TRUE,FALSE,April,Online
+ORD924,Marco's Pizza,17-04-2026 20:30,17-04-2026 21:00,30,Medium,Margarita,Medium,Cash,TRUE,FALSE,April,Offline
+ORD925,Domino's,18-04-2026 19:00,18-04-2026 19:30,30,Large,Sicilian,Medium,UPI,TRUE,TRUE,April,Online
+ORD926,Pizza Hut,19-04-2026 20:15,19-04-2026 20:45,30,Medium,Veg,Low,Wallet,TRUE,TRUE,April,Online
+ORD927,Papa John's,20-04-2026 18:30,20-04-2026 19:00,30,Medium,BBQ Chicken,Medium,Card,TRUE,FALSE,April,Online
+ORD928,Little Caesars,21-04-2026 19:45,21-04-2026 20:15,30,XL,Cheese Burst,High,UPI,TRUE,FALSE,April,Online
+ORD929,Marco's Pizza,22-04-2026 20:00,22-04-2026 20:30,30,Medium,Margarita,Medium,Cash,TRUE,FALSE,April,Offline
+ORD930,Domino's,23-04-2026 19:15,23-04-2026 19:45,30,Large,Sicilian,Medium,UPI,TRUE,FALSE,April,Online
+ORD931,Pizza Hut,24-04-2026 20:30,24-04-2026 21:00,30,Medium,Veg,Low,Wallet,TRUE,FALSE,April,Online
+ORD932,Papa John's,25-04-2026 18:00,25-04-2026 18:30,30,Medium,BBQ Chicken,Medium,Card,TRUE,TRUE,April,Online
+ORD933,Little Caesars,26-04-2026 19:15,26-04-2026 19:45,30,XL,Cheese Burst,High,UPI,TRUE,TRUE,April,Online
+ORD934,Marco's Pizza,27-04-2026 20:30,27-04-2026 21:00,30,Medium,Margarita,Medium,Cash,TRUE,FALSE,April,Offline
+ORD935,Domino's,28-04-2026 19:00,28-04-2026 19:30,30,Large,Sicilian,Medium,UPI,TRUE,FALSE,April,Online
+ORD936,Pizza Hut,29-04-2026 20:15,29-04-2026 20:45,30,Medium,Veg,Low,Wallet,TRUE,FALSE,April,Online
+ORD937,Papa John's,30-04-2026 18:30,30-04-2026 19:00,30,Medium,BBQ Chicken,Medium,Card,TRUE,FALSE,April,Online
+ORD938,Little Caesars,01-05-2026 19:45,01-05-2026 20:15,30,XL,Cheese Burst,High,UPI,TRUE,FALSE,May,Online
+ORD939,Marco's Pizza,02-05-2026 20:00,02-05-2026 20:30,30,Medium,Margarita,Medium,Cash,TRUE,TRUE,May,Offline
+ORD940,Domino's,03-05-2026 19:15,03-05-2026 19:45,30,Large,Sicilian,Medium,UPI,TRUE,TRUE,May,Online
+ORD941,Pizza Hut,04-05-2026 20:30,04-05-2026 21:00,30,Medium,Veg,Low,Wallet,TRUE,FALSE,May,Online
+ORD942,Papa John's,05-05-2026 18:00,05-05-2026 18:30,30,Medium,BBQ Chicken,Medium,Card,TRUE,FALSE,May,Online
+ORD943,Little Caesars,06-05-2026 19:15,06-05-2026 19:45,30,XL,Cheese Burst,High,UPI,TRUE,FALSE,May,Online
+ORD944,Marco's Pizza,07-05-2026 20:30,07-05-2026 21:00,30,Medium,Margarita,Medium,Cash,TRUE,FALSE,May,Offline
+ORD945,Domino's,08-05-2026 19:00,08-05-2026 19:30,30,Large,Sicilian,Medium,UPI,TRUE,FALSE,May,Online
+ORD946,Pizza Hut,09-05-2026 20:15,09-05-2026 20:45,30,Medium,Veg,Low,Wallet,TRUE,TRUE,May,Online
+ORD947,Papa John's,10-05-2026 18:30,10-05-2026 19:00,30,Medium,BBQ Chicken,Medium,Card,TRUE,TRUE,May,Online
+ORD948,Little Caesars,11-05-2026 19:45,11-05-2026 20:15,30,XL,Cheese Burst,High,UPI,TRUE,FALSE,May,Online
+ORD949,Marco's Pizza,12-05-2026 20:00,12-05-2026 20:30,30,Medium,Margarita,Medium,Cash,TRUE,FALSE,May,Offline
+ORD950,Papa John's,13-05-2026 18:00,13-05-2026 18:30,30,Medium,BBQ Chicken,Medium,UPI,TRUE,FALSE,May,Online
+ORD951,Little Caesars,14-05-2026 19:15,14-05-2026 19:45,30,XL,Cheese Burst,High,Card,TRUE,FALSE,May,Online
+ORD952,Marco's Pizza,15-05-2026 20:30,15-05-2026 21:00,30,Medium,Margarita,Medium,Cash,TRUE,FALSE,May,Offline
+ORD953,Domino's,16-05-2026 19:00,16-05-2026 19:30,30,Large,Sicilian,Medium,UPI,TRUE,TRUE,May,Online
+ORD954,Pizza Hut,17-05-2026 20:15,17-05-2026 20:45,30,Medium,Veg,Low,Wallet,TRUE,TRUE,May,Online
+ORD955,Papa John's,18-05-2026 18:30,18-05-2026 19:00,30,Medium,BBQ Chicken,Medium,Card,TRUE,FALSE,May,Online
+ORD956,Little Caesars,19-05-2026 19:45,19-05-2026 20:15,30,XL,Cheese Burst,High,UPI,TRUE,FALSE,May,Online
+ORD957,Marco's Pizza,20-05-2026 20:00,20-05-2026 20:30,30,Medium,Margarita,Medium,Cash,TRUE,FALSE,May,Offline
+ORD958,Domino's,21-05-2026 19:15,21-05-2026 19:45,30,Large,Sicilian,Medium,UPI,TRUE,FALSE,May,Online
+ORD959,Pizza Hut,22-05-2026 20:30,22-05-2026 21:00,30,Medium,Veg,Low,Wallet,TRUE,FALSE,May,Online
+ORD960,Papa John's,23-05-2026 18:00,23-05-2026 18:30,30,Medium,BBQ Chicken,Medium,UPI,TRUE,TRUE,May,Online
+ORD961,Little Caesars,24-05-2026 19:15,24-05-2026 19:45,30,XL,Cheese Burst,High,Card,TRUE,TRUE,May,Online
+ORD962,Marco's Pizza,25-05-2026 20:30,25-05-2026 21:00,30,Medium,Margarita,Medium,Cash,TRUE,FALSE,May,Offline
+ORD963,Domino's,26-05-2026 19:00,26-05-2026 19:30,30,Large,Sicilian,Medium,UPI,TRUE,FALSE,May,Online
+ORD964,Pizza Hut,27-05-2026 20:15,27-05-2026 20:45,30,Medium,Veg,Low,Wallet,TRUE,FALSE,May,Online
+ORD965,Papa John's,28-05-2026 18:30,28-05-2026 19:00,30,Medium,BBQ Chicken,Medium,Card,TRUE,FALSE,May,Online
+ORD966,Little Caesars,29-05-2026 19:45,29-05-2026 20:15,30,XL,Cheese Burst,High,UPI,TRUE,FALSE,May,Online
+ORD967,Marco's Pizza,30-05-2026 20:00,30-05-2026 20:30,30,Medium,Margarita,Medium,Cash,TRUE,TRUE,May,Offline
+ORD968,Domino's,31-05-2026 19:15,31-05-2026 19:45,30,Large,Sicilian,Medium,UPI,TRUE,TRUE,May,Online
+ORD969,Pizza Hut,01-06-2026 20:30,01-06-2026 21:00,30,Medium,Veg,Low,Wallet,TRUE,FALSE,June,Online
+ORD970,Papa John's,02-06-2026 18:00,02-06-2026 18:30,30,Medium,BBQ Chicken,Medium,UPI,TRUE,FALSE,June,Online
+ORD971,Little Caesars,03-06-2026 19:15,03-06-2026 19:45,30,XL,Cheese Burst,High,Card,TRUE,FALSE,June,Online
+ORD972,Marco's Pizza,04-06-2026 20:30,04-06-2026 21:00,30,Medium,Margarita,Medium,Cash,TRUE,FALSE,June,Offline
+ORD973,Domino's,05-06-2026 19:00,05-06-2026 19:30,30,Large,Sicilian,Medium,UPI,TRUE,FALSE,June,Online
+ORD974,Pizza Hut,06-06-2026 20:15,06-06-2026 20:45,30,Medium,Veg,Low,Wallet,TRUE,TRUE,June,Online
+ORD975,Papa John's,07-06-2026 18:30,07-06-2026 19:00,30,Medium,BBQ Chicken,Medium,Card,TRUE,TRUE,June,Online
+ORD976,Little Caesars,08-06-2026 19:45,08-06-2026 20:15,30,XL,Cheese Burst,High,UPI,TRUE,FALSE,June,Online
+ORD977,Marco's Pizza,09-06-2026 20:00,09-06-2026 20:30,30,Medium,Margarita,Medium,Cash,TRUE,FALSE,June,Offline
+ORD978,Papa John's,10-06-2026 18:00,10-06-2026 18:30,30,Medium,BBQ Chicken,Medium,UPI,TRUE,FALSE,June,Online
+ORD979,Little Caesars,11-06-2026 19:15,11-06-2026 19:45,30,XL,Cheese Burst,High,Card,TRUE,FALSE,June,Online
+ORD980,Marco's Pizza,12-06-2026 20:30,12-06-2026 21:00,30,Medium,Margarita,Medium,Cash,TRUE,FALSE,June,Offline
+ORD981,Domino's,13-06-2026 19:00,13-06-2026 19:30,30,Large,Sicilian,Medium,UPI,TRUE,TRUE,June,Online
+ORD982,Pizza Hut,14-06-2026 20:15,14-06-2026 20:45,30,Medium,Veg,Low,Wallet,TRUE,TRUE,June,Online
+ORD983,Papa John's,15-06-2026 18:30,15-06-2026 19:00,30,Medium,BBQ Chicken,Medium,Card,TRUE,FALSE,June,Online
+ORD984,Little Caesars,16-06-2026 19:45,16-06-2026 20:15,30,XL,Cheese Burst,High,UPI,TRUE,FALSE,June,Online
+ORD985,Marco's Pizza,17-06-2026 20:00,17-06-2026 20:30,30,Medium,Margarita,Medium,Cash,TRUE,FALSE,June,Offline
+ORD986,Domino's,18-06-2026 19:15,18-06-2026 19:45,30,Large,Sicilian,Medium,UPI,TRUE,FALSE,June,Online
+ORD987,Pizza Hut,19-06-2026 20:30,19-06-2026 21:00,30,Medium,Veg,Low,Wallet,TRUE,FALSE,June,Online
+ORD988,Papa John's,20-06-2026 18:00,20-06-2026 18:30,30,Medium,BBQ Chicken,Medium,UPI,TRUE,TRUE,June,Online
+ORD989,Little Caesars,21-06-2026 19:15,21-06-2026 19:45,30,XL,Cheese Burst,High,Card,TRUE,TRUE,June,Online
+ORD990,Marco's Pizza,22-06-2026 20:30,22-06-2026 21:00,30,Medium,Margarita,Medium,Cash,TRUE,FALSE,June,Offline
+ORD991,Domino's,23-06-2026 19:00,23-06-2026 19:30,30,Large,Sicilian,Medium,UPI,TRUE,FALSE,June,Online
+ORD992,Pizza Hut,24-06-2026 20:15,24-06-2026 20:45,30,Medium,Veg,Low,Wallet,TRUE,FALSE,June,Online
+ORD993,Papa John's,25-06-2026 18:30,25-06-2026 19:00,30,Medium,BBQ Chicken,Medium,Card,TRUE,FALSE,June,Online
+ORD994,Little Caesars,26-06-2026 19:45,26-06-2026 20:15,30,XL,Cheese Burst,High,UPI,TRUE,FALSE,June,Online
+ORD995,Marco's Pizza,27-06-2026 20:00,27-06-2026 20:30,30,Medium,Margarita,Medium,Cash,TRUE,TRUE,June,Offline
+ORD996,Domino's,28-06-2026 19:15,28-06-2026 19:45,30,Large,Sicilian,Medium,UPI,TRUE,TRUE,June,Online
+ORD997,Pizza Hut,29-06-2026 20:30,29-06-2026 21:00,30,Medium,Veg,Low,Wallet,TRUE,FALSE,June,Online
+ORD998,Papa John's,30-06-2026 18:00,30-06-2026 18:30,30,Medium,BBQ Chicken,Medium,UPI,TRUE,FALSE,June,Online
+ORD999,Little Caesars,01-07-2026 19:15,01-07-2026 19:45,30,XL,Cheese Burst,High,Card,TRUE,FALSE,July,Online
+ORD1000,Marco's Pizza,02-07-2026 20:30,02-07-2026 21:00,30,Medium,Margarita,Medium,Cash,TRUE,FALSE,July,Offline
+ORD1001,Domino's,03-07-2026 19:00,03-07-2026 19:30,30,Large,Sicilian,Medium,UPI,TRUE,FALSE,July,Online
+ORD1002,Pizza Hut,04-07-2026 20:15,04-07-2026 20:45,30,Medium,Veg,Low,Wallet,TRUE,TRUE,July,Online
+ORD1003,Papa John's,05-07-2026 18:30,05-07-2026 19:00,30,Medium,BBQ Chicken,Medium,Card,TRUE,TRUE,July,Online
+ORD1004,Little Caesars,06-07-2026 19:45,06-07-2026 20:15,30,XL,Cheese Burst,High,UPI,TRUE,FALSE,July,Online
+ORD1005,Marco's Pizza,07-07-2026 20:00,07-07-2026 20:30,30,Medium,Margarita,Medium,UPI,TRUE,FALSE,July,Online
